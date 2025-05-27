@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2026 North American Annual Meeting of the Association for Symbolic Logic on ASL North American Meeting 2026</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in 2026 North American Annual Meeting of the Association for Symbolic Logic on ASL North American Meeting 2026</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <copyright>2025 ASL and 2026 Organizers</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hotel &amp; Travel</title>
+      <link>http://localhost:1313/travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travel/</guid>
+      <description>&lt;p&gt;The conference will take place at &lt;a href=&#34;https://www.law.upenn.edu/&#34;&gt;UPenn&amp;rsquo;s Carey Law School&lt;/a&gt;, in Philadelphia, Pennsylvania.&lt;/p&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.2927497118303!2d-75.19556478832907!3d39.953905883559464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c65066c9680d%3A0x9f0ce0d718af648!2sPenn%20Carey%20Law!5e1!3m2!1sen!2sus!4v1748293256706!5m2!1sen!2sus&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;travel&#34;&gt;Travel&lt;/h2&gt;
+&lt;h3 id=&#34;ground-transportation&#34;&gt;Ground Transportation&lt;/h3&gt;
+&lt;p&gt;The conference location is located only a 15 minute walk from 30th Street Station (Philadelphia&amp;rsquo;s main train station), making Amtrak a convenient way to get to campus from around the Northeast US.
+Note that Northeast Amtrak trains tend to increase considerably in price in the few weeks before travel, so remember to book ahead.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.septa.org/schedules/L1&#34;&gt;L subway line&lt;/a&gt; and &lt;a href=&#34;https://www.septa.org/schedules/T&#34;&gt;T trolleys&lt;/a&gt; provide a quick trip into Center City, including to the Convention Center hosting the &lt;a href=&#34;https://www.icm2026.org/&#34;&gt;ICM&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Registration</title>
+      <link>http://localhost:1313/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/registration/</guid>
+      <description>&lt;p&gt;Registration is not yet open.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+baseURL: 'https://localhost:1313/'
+languageCode: 'en-us'
+title: 'ASL North American Meeting 2026'
+copyright: "© 2025 ASL and 2026 Organizers"
+theme: PaperMod
+featured_image: '/images/philly-skyline-free.jpg'
+
+params:
+  author: ""
+  description: Description
+
+sitemap:
+  changefreq: "monthly"
+  priority: 0.5
+  filename: "sitemap.xml"
+
+markup:
+    goldmark:
+        parser:
+          attribute:
+            block: true
+        renderer:
+            unsafe: true
