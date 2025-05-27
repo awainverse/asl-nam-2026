@@ -3,7 +3,7 @@ title: Hotel & Travel
 author: ""
 menu:
     main:
-        weight: 2
+        weight: 3
 ---
 
 The conference will take place at [UPenn's Carey Law School](https://www.law.upenn.edu/), in Philadelphia, Pennsylvania.
