@@ -10,6 +10,8 @@ The conference will take place at [UPenn's Carey Law School](https://www.law.upe
 
 {{% map %}}
 
+---
+
 ## Travel
 
 ### Ground Transportation
@@ -18,6 +20,7 @@ The conference location is located only a 15 minute walk from 30th Street Statio
 Note that Northeast Amtrak trains tend to increase considerably in price in the few weeks before travel, so remember to book ahead.
 
 The [L subway line](https://www.septa.org/schedules/L1) and [T trolleys](https://www.septa.org/schedules/T) provide a quick trip into Center City, including to the Convention Center hosting the [ICM](https://www.icm2026.org/).
+
 
 ### Airports
 - #### [PHL - Philadelphia International Airport](https://www.phl.org/)
@@ -28,6 +31,7 @@ Rideshare is also convenient.
 - #### [EWR – Newark Liberty International Airport](https://www.newarkairport.com/)
 It is also possible to fly to EWR, one of New York City's three major airports. From EWR's train station, one can take frequent Northeast Regional Amtrak trains (about 65 minutes). See here for more information: [https://www.newarkairport.com/to-from-airport/public-transportation](https://www.newarkairport.com/to-from-airport/public-transportation). The drive is approximately 90 minutes. 
 
+---
 
 ## Hotels
 
