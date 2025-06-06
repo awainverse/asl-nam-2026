@@ -20,7 +20,13 @@
 &lt;h3 id=&#34;ground-transportation&#34;&gt;Ground Transportation&lt;/h3&gt;
 &lt;p&gt;The conference location is located only a 15 minute walk from 30th Street Station (Philadelphia&amp;rsquo;s main train station), making Amtrak a convenient way to get to campus from around the Northeast US.
 Note that Northeast Amtrak trains tend to increase considerably in price in the few weeks before travel, so remember to book ahead.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://www.septa.org/schedules/L1&#34;&gt;L subway line&lt;/a&gt; and &lt;a href=&#34;https://www.septa.org/schedules/T&#34;&gt;T trolleys&lt;/a&gt; provide a quick trip into Center City, including to the Convention Center hosting the &lt;a href=&#34;https://www.icm2026.org/&#34;&gt;ICM&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The &lt;a href=&#34;https://www.septa.org/schedules/L1&#34;&gt;&lt;svg viewBox=&#34;0 0 500 500&#34;&gt;
+&lt;path fill=&#34;#1c9ad6&#34; d=&#34;M0 0h500v500H0z&#34;/&gt;
+&lt;path fill=&#34;#fff&#34; d=&#34;M219.563 339.521h115.079v43.535H165.358v-263.05h54.203V339.52z&#34;/&gt;
+&lt;/svg&gt; subway&lt;/a&gt; and &lt;a href=&#34;https://www.septa.org/schedules/T&#34;&gt;&lt;svg viewBox=&#34;0 0 500 500&#34;&gt;
+&lt;path fill=&#34;#5a960a&#34; d=&#34;M0 0h500v500H0z&#34;/&gt;
+&lt;path fill=&#34;#fff&#34; d=&#34;M357.473 119.647H142.527v44.081h80.184v216.205h54.577V163.728h80.185z&#34;/&gt;
+&lt;/svg&gt; trolleys&lt;/a&gt; provide a quick trip into Center City, including to the Convention Center hosting the &lt;a href=&#34;https://www.icm2026.org/&#34;&gt;ICM&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Local Area &amp; Dining</title>

@@ -38,7 +38,9 @@ menu:
 
 ---
 
-## Coffee
+## Food and Drink
+
+### Coffee
 
 - [Board and Brew](https://www.theboardandbrew.com/) (board game café)
 - [Top Hat](https://tophat-espresso.com/) (and waffles)
@@ -46,9 +48,7 @@ menu:
 - [Saxby's](http://saxbyscoffee.com/)
 {.column-wrap}
 
-
-
-## Campus Restaurants
+### Campus Restaurants
 
 These are within a few blocks of the conference location.
 There are also a variety of food trucks and carts around UPenn and Drexel campuses. 
@@ -63,6 +63,6 @@ There are also a variety of food trucks and carts around UPenn and Drexel campus
 - [Han Dynasty](http://www.handynasty.net/ucity/) (Sichuan, good for large groups)
 {.column-wrap}
 
-## Further Restaurants
+### Further Restaurants
 
-Walking, the [{{% septa_L %}} subway line](https://www.septa.org/schedules/L1), and the [{{% septa_T %}} trolleys](https://www.septa.org/schedules/T) can get you to most of the dining in Center City and University City.
+Walking, the [{{% septa_L %}} subway](https://www.septa.org/schedules/L1), and the [{{% septa_T %}} trolleys](https://www.septa.org/schedules/T) can get you to most of the dining in Center City and University City.
