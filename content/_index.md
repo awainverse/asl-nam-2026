@@ -6,6 +6,8 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 
 ![Image](images/philly-skyline-free.jpg)
 
+---
+
 {{< columns >}}
 ### Local Organizing Committee
 - [William Ewald](https://www.law.upenn.edu/faculty/wewald) (co-chair)
@@ -23,12 +25,14 @@ TBA
 
 {{< /columns >}}
 
+---
+
 ### Links
 - The Association for Symbolic Logic: [aslonline.org](https://aslonline.org)
 - ASL Code of Conduct: [aslonline.org/meet/aslcodeofconduct/](https://aslonline.org/meet/aslcodeofconduct/)
 
 ### International Congress of Mathematicians
-This conference will be followed by the [International Congress of Mathematicians](https://www.icm2026.org/), also taking place in Philadelphia, July 23-30.
+This conference is a satellite meeting of the [International Congress of Mathematicians](https://www.icm2026.org/), also taking place in Philadelphia, July 23-30, 2026.
 
 ### The conference is funded with the support of the following organizations:
 TBA

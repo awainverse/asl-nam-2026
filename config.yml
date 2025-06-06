@@ -3,11 +3,12 @@ languageCode: 'en-us'
 title: 'ASL North American Meeting 2026'
 copyright: "© 2025 ASL and 2026 Organizers"
 theme: PaperMod
-featured_image: '/images/philly-skyline-free.jpg'
 
 params:
   author: ""
   description: Description
+  defaultTheme: light
+  disableThemeToggle: false
 
 sitemap:
   changefreq: "monthly"
