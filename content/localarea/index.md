@@ -1,6 +1,5 @@
 ---
 title: Local Area & Dining
-author: ""
 menu:
     main:
         weight: 7

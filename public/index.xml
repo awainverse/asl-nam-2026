@@ -67,7 +67,22 @@ To skip the security check, view the Liberty Bell from outside the building.&lt;
       <link>http://localhost:1313/asl-nam-2026/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/asl-nam-2026/registration/</guid>
-      <description>&lt;p&gt;Registration is not yet open.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Registration is not yet open.&lt;/p&gt;
+&lt;p&gt;Stay tuned for the deadlines for contributed talk submissions and student travel applications. For general information on student travel applications, see &lt;a href=&#34;https://aslonline.org/student-travel-awards/&#34;&gt;https://aslonline.org/student-travel-awards/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Schedule</title>
+      <link>http://localhost:1313/asl-nam-2026/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asl-nam-2026/schedule/</guid>
+      <description>&lt;p&gt;Stay tuned for program and schedule information.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Social Events</title>
+      <link>http://localhost:1313/asl-nam-2026/social-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asl-nam-2026/social-events/</guid>
+      <description>&lt;p&gt;Stay tuned for information about social events.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
