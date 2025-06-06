@@ -40,8 +40,5 @@ ul.column-wrap {
 }
 
 .post-content hr {
-    margin: 30px 0;
     height: 5px;
-    background: var(--tertiary);
-    border: 0;
 }
