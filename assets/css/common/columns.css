@@ -6,6 +6,18 @@
     flex: 50%;
 }
 
+.column-wrap {
+  column-width: 400px;
+  column-count: 2;
+}
+
+.column-wrap-block {
+  break-inside: avoid;
+  display: inline-block;
+  width: 100%;
+}
+
+
 ul.column-wrap {
   column-width: 300px;
 }

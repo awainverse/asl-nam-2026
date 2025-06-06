@@ -9,8 +9,16 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 
 ---
 
-{{< columns >}}
+{{< columnwrap >}}
+
+### Program Committee
+
+TBA
+
+<--->
+
 ### Local Organizing Committee
+
 - [William Ewald](https://www.law.upenn.edu/faculty/wewald) (co-chair)
 - [Andre Scedrov](https://www.cis.upenn.edu/~scedrov/) (co-chair)
 - [Henry Towsner](https://www.sas.upenn.edu/~htowsner/) (co-chair)
@@ -21,10 +29,23 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 
 <--->
 
-### Program Committee
+### Plenary Speakers
+
 TBA
 
-{{< /columns >}}
+<--->
+
+### Tutorial Speakers
+
+TBA
+
+<--->
+
+### Special Session Organizers
+
+TBA
+
+{{< /columnwrap >}}
 
 ---
 

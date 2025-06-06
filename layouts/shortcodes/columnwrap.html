@@ -1,3 +1,7 @@
 <div class="column-wrap">
-  {{ .Inner | $.Page.RenderString -}}
+  {{- range split .Inner "<--->" }}
+    <div class="column-wrap-block">
+      {{ . | $.Page.RenderString -}}
+    </div>
+  {{- end }}
 </div>
