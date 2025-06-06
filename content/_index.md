@@ -25,6 +25,7 @@ TBA
 - [Aaron Anderson](https://awainverse.github.io/)
 - [Steven Lindell](https://www.haverford.edu/users/slindell)
 - [Giorgi Japaridze](http://www.csc.villanova.edu/~japaridz/)
+- [Val Tannen](https://www.cis.upenn.edu/~val/home.html)
 - [Scott Weinstein](https://www.cis.upenn.edu/~weinstei/)
 
 <--->
