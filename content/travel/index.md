@@ -19,7 +19,7 @@ The conference will take place at [UPenn's Carey Law School](https://www.law.upe
 The conference location is located only a 15 minute walk from 30th Street Station (Philadelphia's main train station), making Amtrak a convenient way to get to campus from around the Northeast US.
 Note that Northeast Amtrak trains tend to increase considerably in price in the few weeks before travel, so remember to book ahead.
 
-The [L subway line](https://www.septa.org/schedules/L1) and [T trolleys](https://www.septa.org/schedules/T) provide a quick trip into Center City, including to the Convention Center hosting the [ICM](https://www.icm2026.org/).
+The [{{% septa_L %}} subway](https://www.septa.org/schedules/L1) and [{{% septa_T %}} trolleys](https://www.septa.org/schedules/T) provide a quick trip into Center City, including to the Convention Center hosting the [ICM](https://www.icm2026.org/).
 
 ### Airports
 
@@ -52,5 +52,5 @@ In the meantime, here are some options:
 
     on campus, $260/night
 
-There are many other hotel options in Center City, which are also a quick walk or trolley or subway ride to UPenn campus.
+There are many other hotel options in Center City, which are also a quick walk, trolley, or subway to UPenn campus.
 These hotels will also be closer to the Convention Center where the [ICM](https://icm2026.org/) is taking place.

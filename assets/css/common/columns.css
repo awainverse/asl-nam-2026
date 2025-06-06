@@ -6,6 +6,23 @@
     flex: 50%;
 }
 
+ul.column-wrap {
+  column-width: 300px;
+}
+
 ::marker {
   color: var(--tertiary);
+}
+
+.post-content .center img {
+    display: block;
+    margin:0 auto;
+}
+
+.post-content svg {
+  display: inline;
+  margin: 0 0.125em;
+  padding: 0;
+  vertical-align: baseline;
+  width: 18px;
 }
