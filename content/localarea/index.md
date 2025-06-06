@@ -58,6 +58,7 @@ There are also a variety of food trucks and carts around UPenn and Drexel campus
 - [Masala Kitchen](https://masalakitchenphilly.getbento.com/order-online-sansom-st-university-city/) (Indian wraps)
 - [Puyero](https://www.puyeroflavor.com/) (Venezuelan)
 - [Board and Brew](https://www.theboardandbrew.com/) (board game café)
+- [Spread Bagelry](https://spreadbagelry.com/location/penn/)
 - [White Dog](https://whitedog.com/) (farm-to-table)
 - [Louie Louie](https://louielouie.restaurant/) (French)
 - [Han Dynasty](http://www.handynasty.net/ucity/) (Sichuan, good for large groups)
