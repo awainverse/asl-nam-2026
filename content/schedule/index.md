@@ -5,4 +5,6 @@ menu:
         weight: 2
 ---
 
-Stay tuned for program and schedule information.
+The meeting will take place on July 19-22, 2026.
+
+Stay tuned for more program and schedule information.
