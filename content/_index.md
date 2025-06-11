@@ -4,7 +4,7 @@ title: 2026 North American Annual Meeting of the Association for Symbolic Logic
 
 The 2026 North American Annual Meeting of the Association for Symbolic Logic will be held July 19-22, 2026 at the University of Pennsylvania in Philadelphia, PA.
 
-![Image](images/philly-skyline-free.jpg)
+![Image](images/philly_skyline_nadine_bradbury.jpg)
 {.center}
 
 ---
