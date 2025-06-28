@@ -1,7 +1,7 @@
 baseURL: 'https://awainverse.github.io/asl-nam-2026'
 languageCode: 'en-us'
 title: 'ASL North American Meeting 2026'
-copyright: "© 2025 ASL and 2026 Organizers"
+copyright: "© 2025, ASL and 2026 Organizers"
 theme: PaperMod
 
 params:

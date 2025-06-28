@@ -53,4 +53,4 @@ In the meantime, here are some options:
     on campus, $260/night
 
 There are many other hotel options in Center City, which are also a quick walk, trolley, or subway to UPenn campus.
-These hotels will also be closer to the Convention Center where the [ICM](https://icm2026.org/) is taking place.
+These hotels will also be closer to the Convention Center where the [ICM](https://www.icm2026.org/) is taking place.

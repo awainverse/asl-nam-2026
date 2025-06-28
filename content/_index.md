@@ -51,11 +51,14 @@ TBA
 ---
 
 ### Links
+
 - The Association for Symbolic Logic: [aslonline.org](https://aslonline.org)
 - ASL Code of Conduct: [aslonline.org/meet/aslcodeofconduct/](https://aslonline.org/meet/aslcodeofconduct/)
 
 ### International Congress of Mathematicians
+
 This conference is a satellite meeting of the [International Congress of Mathematicians](https://www.icm2026.org/), also taking place in Philadelphia, July 23-30, 2026.
 
 ### The conference is funded with the support of the following organizations:
+
 TBA
