@@ -13,6 +13,22 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 
 ### Program Committee
 
+- [James Cummings](https://www.math.cmu.edu/users/jcumming/) (chair)
+- [Rachael Alvir](https://uwaterloo.ca/scholar/r2alvir)
+- [Patricia Blanchette](https://sites.nd.edu/patricia-blanchette/)
+- [Maryanthe Malliaris](https://math.uchicago.edu/~mem/)
+- [Andre Scedrov](https://www.cis.upenn.edu/~scedrov/)
+
+<--->
+
+### Plenary Speakers
+
+TBA
+
+<--->
+
+### Tutorial Speakers
+
 TBA
 
 <--->
@@ -27,18 +43,6 @@ TBA
 - [Giorgi Japaridze](http://www.csc.villanova.edu/~japaridz/)
 - [Val Tannen](https://www.cis.upenn.edu/~val/home.html)
 - [Scott Weinstein](https://www.cis.upenn.edu/~weinstei/)
-
-<--->
-
-### Plenary Speakers
-
-TBA
-
-<--->
-
-### Tutorial Speakers
-
-TBA
 
 <--->
 
