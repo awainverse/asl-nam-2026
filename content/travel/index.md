@@ -59,4 +59,4 @@ We have hotel blocks at three hotels in Center City:
     
     $129/night
 
-All of these options (but particularly the Hampton Inn) are also close to the Philadelphia Convention Center, where the ICM will take place.
+All of these options (but particularly the Hampton Inn) are also close to the [Pennsylvania Convention Center](https://www.paconvention.com/), where the [ICM](https://www.icm2026.org) will take place.
