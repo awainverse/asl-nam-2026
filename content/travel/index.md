@@ -37,20 +37,26 @@ The [{{% septa_L %}} subway](https://www.septa.org/schedules/L1) and [{{% septa_
 
 ## Hotels
 
-Stay tuned for more hotel information, including hotel blocks.
-In the meantime, here are some options:
+There are several hotels in University City adjacent to UPenn's campus,
+and many hotels nearby in Center City Philadelphia, a quick walk or transit ride away.
+We have hotel blocks at three hotels in Center City:
 
-- **[Sonesta Philadelphia Rittenhouse Square](https://www.sonesta.com/sonesta-hotels-resorts/pa/philadelphia/sonesta-philadelphia-rittenhouse-square)**
+- **[Hampton Inn Center City Philadelphia](https://www.hilton.com/en/hotels/phlcvhx-hampton-philadelphia-center-city-convention-center/)**
 
-    36 minute walk/22 minute subway, $180/night
+    1301 Race Street, Philadelphia, PA | 19107 (57 min. walk/20 min. subway)
 
-- **[Sheraton Philadelphia University City](https://www.marriott.com/en-us/hotels/phlus-sheraton-philadelphia-university-city-hotel/overview/)**
+    $259/night (mention ASL North America Meeting)
 
-    on campus, $189/night
+- **[Sonesta Philadelphia Rittenhouse Square](https://book.passkey.com/go/PennMathematicsASLMeeting2025)**
+  
+    1800 Market St, Philadelphia, PA | 19103 (30 min. walk/13 min. trolley)
 
-- **[The Study](https://www.thestudyatuniversitycity.com/)**
+    $159/night at our [booking link](https://book.passkey.com/go/PennMathematicsASLMeeting2025)
 
-    on campus, $260/night
+- **[Club Quarters Hotel Rittenhouse Square](https://www.clubquartershotels.com/philadelphia/rittenhouse-square)**
+    
+    1628 Chestnut Street, Philadelphia, PA | 19103 (31 min. walk/15 min. subway)
+    
+    $129/night
 
-There are many other hotel options in Center City, which are also a quick walk, trolley, or subway to UPenn campus.
-These hotels will also be closer to the Convention Center where the [ICM](https://www.icm2026.org/) is taking place.
+All of these options (but particularly the Hampton Inn) are also close to the Philadelphia Convention Center, where the ICM will take place.
