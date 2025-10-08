@@ -43,7 +43,7 @@ We have hotel blocks at three hotels in Center City:
 
 - **[Hampton Inn Center City Philadelphia](https://www.hilton.com/en/hotels/phlcvhx-hampton-philadelphia-center-city-convention-center/)**
 
-    1301 Race Street, Philadelphia, PA | 19107 (57 min. walk/20 min. subway)
+    1301 Race Street, Philadelphia, PA | 19107 (47 min. walk/20 min. subway)
 
     $259/night (mention ASL North America Meeting)
 
