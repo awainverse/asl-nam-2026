@@ -43,19 +43,19 @@ We have hotel blocks at three hotels in Center City:
 
 - **[Hampton Inn Center City Philadelphia](https://www.hilton.com/en/hotels/phlcvhx-hampton-philadelphia-center-city-convention-center/)**
 
-    1301 Race Street, Philadelphia, PA | 19107 (57 min. walk/20 min. {{% septa_L %}} subway)
+    1301 Race Street, Philadelphia, PA | 19107 (57 min. walk/20 min. subway)
 
     $259/night (mention ASL North America Meeting)
 
 - **[Sonesta Philadelphia Rittenhouse Square](https://book.passkey.com/go/PennMathematicsASLMeeting2025)**
   
-    1800 Market St, Philadelphia, PA | 19103 (30 min. walk/13 min. {{% septa_T %}} trolley)
+    1800 Market St, Philadelphia, PA | 19103 (30 min. walk/13 min. trolley)
 
     $159/night at our [booking link](https://book.passkey.com/go/PennMathematicsASLMeeting2025)
 
 - **[Club Quarters Hotel Rittenhouse Square](https://www.clubquartershotels.com/philadelphia/rittenhouse-square)**
     
-    1628 Chestnut Street, Philadelphia, PA | 19103 (31 min. walk/15 min. {{% septa_L %}} subway)
+    1628 Chestnut Street, Philadelphia, PA | 19103 (31 min. walk/15 min. subway)
     
     $129/night
 
