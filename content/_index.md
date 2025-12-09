@@ -39,6 +39,7 @@ TBA
 - [Andre Scedrov](https://www.cis.upenn.edu/~scedrov/) (co-chair)
 - [Henry Towsner](https://www.sas.upenn.edu/~htowsner/) (co-chair)
 - [Aaron Anderson](https://awainverse.github.io/)
+- [Kenneth Gill](https://nowheredense.github.io/)
 - [Steven Lindell](https://www.haverford.edu/users/slindell)
 - [Giorgi Japaridze](http://www.csc.villanova.edu/~japaridz/)
 - [Val Tannen](https://www.cis.upenn.edu/~val/home.html)
