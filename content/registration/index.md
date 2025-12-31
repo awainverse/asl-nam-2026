@@ -7,4 +7,8 @@ menu:
 
 Registration is not yet open.
 
-Stay tuned for the deadlines for contributed talk submissions and student travel applications. For general information on student travel applications, see https://aslonline.org/student-travel-awards/
+Student travel applications are due to [asl@uconn.edu](mailto:asl@uconn.edu) by April 19, 2026.
+For general information on student travel applications, see https://aslonline.org/student-travel-awards/
+
+For contributed talks, at least one author must be an ASL member.
+Submissions are due to [asl@uconn.edu](mailto:asl@uconn.edu) by April 19, 2026. 

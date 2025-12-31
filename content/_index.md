@@ -11,6 +11,50 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 
 {{< columnwrap >}}
 
+### Plenary Speakers
+
+- [Will Brian](https://wrbrian.wordpress.com/)
+- [Vincenzo De Risi](https://vincenzoderisi.academia.edu/)
+- [Juliette Kennedy](https://www.mv.helsinki.fi/home/jkennedy/)
+- [Jack Lutz](https://jacklutz.com/)
+- [Larry Moss](https://math.indiana.edu/about/faculty/moss-larry.html)
+- [Caroline Terry](https://sites.google.com/uic.edu/carolineterry)
+
+<--->
+
+### Special Sessions
+
+- **Computability Theory**
+
+  [Denis Hirschfeldt](https://math.uchicago.edu/~drh/) and [Karen Lange](https://www.wellesley.edu/people/karen-lange)
+
+- **Logic in Computer Science**
+ 
+  [Elaine Pimentel](https://sites.google.com/site/elainepimentel/) and [Val Tannen](https://www.cis.upenn.edu/~val/home.html)
+
+- **Model-Theoretic Algebra**
+  
+  [Ben Castle](https://bencastle.web.illinois.edu/) and [Franziska Jahnke](https://ivv5hpp.uni-muenster.de/u/fjahn_01/en/)
+
+- **Proof Theory**
+  
+  [Michael Rathjen](https://michrathjen.github.io/) and [James Walsh](https://www.jameswalsh.org/)
+
+- **Set Theory**
+  
+  [Justin Moore](https://math.cornell.edu/justin-moore) and [Dima Sinapova](https://sites.math.rutgers.edu/~ds2005/)
+
+
+<--->
+
+### Panel
+
+- **Hilbert's Consistency Program**
+
+  [William Ewald](https://www.law.upenn.edu/faculty/wewald) and [Wilfried Sieg](https://www.cmu.edu/dietrich/philosophy/people/faculty/sieg.html)
+
+<--->
+
 ### Program Committee
 
 - [James Cummings](https://www.math.cmu.edu/users/jcumming/) (chair)
@@ -19,17 +63,6 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 - [Maryanthe Malliaris](https://math.uchicago.edu/~mem/)
 - [Andre Scedrov](https://www.cis.upenn.edu/~scedrov/)
 
-<--->
-
-### Plenary Speakers
-
-TBA
-
-<--->
-
-### Tutorial Speakers
-
-TBA
 
 <--->
 
@@ -45,11 +78,6 @@ TBA
 - [Val Tannen](https://www.cis.upenn.edu/~val/home.html)
 - [Scott Weinstein](https://www.cis.upenn.edu/~weinstei/)
 
-<--->
-
-### Special Session Organizers
-
-TBA
 
 {{< /columnwrap >}}
 
@@ -66,4 +94,6 @@ This conference is a satellite meeting of the [International Congress of Mathema
 
 ### The conference is funded with the support of the following organizations:
 
-TBA
+- University Research Foundation at the University of Pennsylvania
+- National Science Foundation
+- Thomas and Yvonne Williams Fund for the Advancement of Logic and Philosophy
