@@ -87,7 +87,6 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 
 - The Association for Symbolic Logic: [aslonline.org](https://aslonline.org)
 - ASL Code of Conduct: [aslonline.org/meet/aslcodeofconduct/](https://aslonline.org/meet/aslcodeofconduct/)
-- [Conference Poster](asl_poster.pdf)
 
 ### International Congress of Mathematicians
 

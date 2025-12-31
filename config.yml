@@ -22,3 +22,9 @@ markup:
             block: true
         renderer:
             unsafe: true
+
+menu:
+    main:
+        - name: Poster
+          url: asl_poster.pdf
+          weight: 6

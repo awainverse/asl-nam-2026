@@ -2,7 +2,7 @@
 title: Local Area & Dining
 menu:
     main:
-        weight: 7
+        weight: 5
 ---
 
 ---
