@@ -27,4 +27,4 @@ menu:
     main:
         - name: Poster
           url: asl_poster.pdf
-          weight: 6
+          weight: 7

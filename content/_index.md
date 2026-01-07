@@ -22,6 +22,18 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 
 <--->
 
+### Tutorials
+
+- **NSOP₁**
+  
+  [Nick Ramsey](https://www.nramseymath.com/)
+
+- **Computable Structures**
+  
+  [Matthew Harrison-Trainor](https://homepages.math.uic.edu/~mht/)
+
+<--->
+
 ### Special Sessions
 
 - **Computability Theory**
