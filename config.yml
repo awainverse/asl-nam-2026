@@ -23,3 +23,8 @@ markup:
         renderer:
             unsafe: true
 
+menu:
+    main:
+        - name: Poster
+          url: ASL_poster.pdf
+          weight: 7
