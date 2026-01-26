@@ -45,7 +45,7 @@ We have hotel blocks at three hotels in Center City:
 
     1301 Race Street, Philadelphia, PA | 19107 (47 min. walk/20 min. subway)
 
-    $259/night (mention ASL North America Meeting)
+    $159/night (mention ASL North America Meeting)
 
 - **[Sonesta Philadelphia Rittenhouse Square](https://book.passkey.com/go/PennMathematicsASLMeeting2025)**
   
