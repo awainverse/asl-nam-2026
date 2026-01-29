@@ -109,3 +109,10 @@ This conference is a satellite meeting of the [International Congress of Mathema
 - University Research Foundation at the University of Pennsylvania
 - National Science Foundation
 - Thomas and Yvonne Williams Fund for the Advancement of Logic and Philosophy
+
+---
+
+- [![Image](images/asl_logo.png "Association of Symbolic Logic")](https://aslonline.org)
+- [![Image](images/NSF_logo.png "National Science Foundation")](https://www.nsf.gov)
+- [![Image](images/penn_logo.png "University of Pennsylvania")](https://www.math.upenn.edu/)
+{.logo-link}

@@ -408,3 +408,20 @@ img.in-text {
     display: inline;
     margin: auto;
 }
+
+.logo-link img {
+    height: 100px;
+}
+
+.logo-link {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 100%;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+}
+
+.logo-link li {
+    display: inline;
+}
