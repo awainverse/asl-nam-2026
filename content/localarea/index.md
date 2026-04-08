@@ -35,7 +35,10 @@ menu:
 
   [Take the {{% septa_L %}} to 5th.](https://www.septa.org/schedules/L1?startStop=2453&endStop=2458&directionId=0&date=2025-06-06)
 
----gi
+
+See [Family Information](family) for a longer list of nearby attractions.
+
+---
 
 ## Food and Drink
 
