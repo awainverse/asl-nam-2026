@@ -25,6 +25,9 @@ markup:
 
 menu:
     main:
+        - name: Family
+          url: family
+          weight: 6
         - name: Poster
           url: ASL_poster.pdf
           weight: 7
