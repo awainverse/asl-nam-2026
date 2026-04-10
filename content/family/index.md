@@ -11,7 +11,6 @@ author: ""
 - [Bright Horizons](https://www.brighthorizons.com/daycare/drop-in-daycare) (several locations within ~10 minute walk)
 - [Philadelphia Nanny Network](https://nannyagency.com/)
 
-
 ---
 
 ## Local Attractions
