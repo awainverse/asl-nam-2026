@@ -57,6 +57,9 @@ We have hotel blocks at three hotels in Center City:
     
     1628 Chestnut Street, Philadelphia, PA | 19103 (31 min. walk/15 min. subway)
     
-    $129/night (mention Penn Mathematics Department)
+    $129/night at our [booking link](https://urldefense.com/v3/__https://be.synxis.com/?Hotel=58313&Chain=14601&arrive=2026-07-18&depart=2026-07-23&adult=1&child=0&group=2607PENNMA__;!!IBzWLUs!RkdvmMB7m4cMYgPA6Mdb-aeYPC6f-cjp-cXaMMKARKbdbjwG-piEgOkFeymItZ-y83gGpHktSz0YWoaAZgI9$),
+    or call 203-905-2100 or email [guestservices@clubquarters.com](mailto:guestservices@clubquarters.com) and mention "Penn Mathematics Department".
+    
+    This rate only applies if booked by June 18th.
 
 All of these options (but particularly the Hampton Inn) are also close to the [Pennsylvania Convention Center](https://www.paconvention.com/), where the [ICM](https://www.icm2026.org) will take place.
