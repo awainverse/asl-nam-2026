@@ -5,6 +5,44 @@ menu:
         weight: 5
 ---
 
+The conference will take place at [UPenn's Carey Law School](https://www.law.upenn.edu/), in Philadelphia, Pennsylvania.
+
+{{% map %}}
+
+---
+
+## Food and Drink
+
+### Coffee
+
+- [Board and Brew](https://www.theboardandbrew.com/) (board game café)
+- [Top Hat](https://tophat-espresso.com/) (and waffles)
+- [Haraz](https://harazcoffeehouse.com/) (Yemeni)
+- [Saxby's](http://saxbyscoffee.com/)
+{.column-wrap}
+
+### Campus Restaurants
+
+These are within a few blocks of the conference location.
+There are also a variety of food trucks and carts around UPenn and Drexel campuses. 
+
+- [Franklin's Table](https://www.shopsatpenn.com/franklins-table) (food court)
+  - featuring [Goldie Falafel](https://goldiefalafel.com/)
+- [Masala Kitchen](https://masalakitchenphilly.getbento.com/order-online-sansom-st-university-city/) (Indian wraps)
+- [Puyero](https://www.puyeroflavor.com/) (Venezuelan)
+- [Board and Brew](https://www.theboardandbrew.com/) (board game café)
+- [Spread Bagelry](https://spreadbagelry.com/location/penn/)
+- [White Dog](https://whitedog.com/) (farm-to-table)
+- [Louie Louie](https://louielouie.restaurant/) (French)
+- [Han Dynasty](http://www.handynasty.net/ucity/) (Sichuan, good for large groups)
+{.column-wrap}
+
+### Further Restaurants
+
+Walking, the [{{% septa_L %}} subway](https://www.septa.org/schedules/L1), and the [{{% septa_T %}} trolleys](https://www.septa.org/schedules/T) can get you to most of the dining in Center City and University City/West Philly.
+
+
+
 ---
 
 ## Attractions
@@ -37,35 +75,3 @@ menu:
 
 
 See [Family Information](../family) for a longer list of nearby attractions.
-
----
-
-## Food and Drink
-
-### Coffee
-
-- [Board and Brew](https://www.theboardandbrew.com/) (board game café)
-- [Top Hat](https://tophat-espresso.com/) (and waffles)
-- [Haraz](https://harazcoffeehouse.com/) (Yemeni)
-- [Saxby's](http://saxbyscoffee.com/)
-{.column-wrap}
-
-### Campus Restaurants
-
-These are within a few blocks of the conference location.
-There are also a variety of food trucks and carts around UPenn and Drexel campuses. 
-
-- [Franklin's Table](https://www.shopsatpenn.com/franklins-table) (food court)
-  - featuring [Goldie Falafel](https://goldiefalafel.com/)
-- [Masala Kitchen](https://masalakitchenphilly.getbento.com/order-online-sansom-st-university-city/) (Indian wraps)
-- [Puyero](https://www.puyeroflavor.com/) (Venezuelan)
-- [Board and Brew](https://www.theboardandbrew.com/) (board game café)
-- [Spread Bagelry](https://spreadbagelry.com/location/penn/)
-- [White Dog](https://whitedog.com/) (farm-to-table)
-- [Louie Louie](https://louielouie.restaurant/) (French)
-- [Han Dynasty](http://www.handynasty.net/ucity/) (Sichuan, good for large groups)
-{.column-wrap}
-
-### Further Restaurants
-
-Walking, the [{{% septa_L %}} subway](https://www.septa.org/schedules/L1), and the [{{% septa_T %}} trolleys](https://www.septa.org/schedules/T) can get you to most of the dining in Center City and University City.
