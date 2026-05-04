@@ -69,7 +69,7 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 
 ### Retiring Presidential Address
 
- - [Phokion Kolaitis](https://users.soe.ucsc.edu/~kolaitis/)
+- [Phokion Kolaitis](https://users.soe.ucsc.edu/~kolaitis/)
 
 <--->
 
