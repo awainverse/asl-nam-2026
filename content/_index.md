@@ -67,6 +67,12 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 
 <--->
 
+### Retiring Presidential Address
+
+ - [Phokion Kolaitis](https://users.soe.ucsc.edu/~kolaitis/)
+
+<--->
+
 ### Program Committee
 
 - [James Cummings](https://www.math.cmu.edu/users/jcumming/) (chair)
