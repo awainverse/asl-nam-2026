@@ -113,6 +113,10 @@ This conference is a satellite meeting of the [International Congress of Mathema
 ### The conference is funded with the support of the following organizations:
 
 - University Research Foundation at the University of Pennsylvania
+- University of Pennsylvania Schools:
+  - School of Arts and Sciences
+  - School of Engineering and Applied Sciences
+  - Carey Law School
 - National Science Foundation
 - Thomas and Yvonne Williams Fund for the Advancement of Logic and Philosophy
 
