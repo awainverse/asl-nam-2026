@@ -14,7 +14,7 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 ### Plenary Speakers
 
 - [Will Brian](https://wrbrian.wordpress.com/)
-- [Vincenzo De Risi](https://vincenzoderisi.academia.edu/)
+- [Vincenzo De Risi](https://urldefense.com/v3/__https://cnrs.academia.edu/VincenzoDeRisi__;!!IBzWLUs!QY9pHqW3ucm2FUqIHNfs7bT8agOS5ggc1IMpA90wnENMLsn7rsfSxxZ5M98DWnCmi8WMUkW78cfaGEyK3o4WnWc4LjWvcr4$)
 - [Juliette Kennedy](https://www.mv.helsinki.fi/home/jkennedy/)
 - [Jack Lutz](https://jacklutz.com/)
 - [Larry Moss](https://math.indiana.edu/about/faculty/moss-larry.html)
