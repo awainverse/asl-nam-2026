@@ -11,7 +11,7 @@ The [International Congress of Mathematicians](https://www.icm2026.org/) will ta
 
 Download the [draft schedule here](../ASL_program.pdf).
 
----
+<!-- ---
 
 ## Draft Schedule
 
@@ -33,4 +33,4 @@ Download the [draft schedule here](../ASL_program.pdf).
 | :- | :---------------------------- | :---------------------------- | :---------------------------- |
 | 2:00 - 2:20 | Jason Block <br> (College of William & Mary) <br> Computability for tree presentations of continuum-size structures. | Blaise Boissonneau <br> (Heinrich Heine University) <br> Some fields, no medal. | Nathaniel Bannister <br> (Carnegie Mellon) <br> Condensed sets and the Solovay model. |
 | 2:30 - 2:50 | Neil Lutz <br> (Swarthmore College) <br> Algorithmic information bounds for distances and orthogonal projections. | Blaise Boissonneau <br> (Heinrich Heine University) <br> Some fields, no medal. | Nathaniel Bannister <br> (Carnegie Mellon) <br> Condensed sets and the Solovay model. |
-| 3:00 - 3:20 | Peter Gerdes <br> (Indiana University) <br> Comparing notions of dense computability on $\omega^\omega$ and $2^\omega$ . | Blaise Boissonneau <br> (Heinrich Heine University) <br> Some fields, no medal. | Nathaniel Bannister <br> (Carnegie Mellon) <br> Condensed sets and the Solovay model. |
+| 3:00 - 3:20 | Peter Gerdes <br> (Indiana University) <br> Comparing notions of dense computability on $\omega^\omega$ and $2^\omega$ . | Blaise Boissonneau <br> (Heinrich Heine University) <br> Some fields, no medal. | Nathaniel Bannister <br> (Carnegie Mellon) <br> Condensed sets and the Solovay model. | -->
