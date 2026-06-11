@@ -10,7 +10,7 @@ The meeting will take place on July 19-22, 2026.
 The [International Congress of Mathematicians](https://www.icm2026.org/) will take place on July 23-30, 2026.
 
 Download the [draft schedule here](../ASL_program.pdf).
-<!-- 
+
 ---
 
 ## Draft Schedule
@@ -20,9 +20,17 @@ Download the [draft schedule here](../ASL_program.pdf).
 #### Morning
 
 | | |
-| :----------: | :-------------------------: |
+| :--- | :---------------------------- |
 | 8:00 – 9:00 | Registration |
-| 9:00 – 9:50 | Tutorial Lecture 1: Matthew Harrison-Trainor (University of Illinois Chicago), Computable structure theory and infinitary logic. |
+| 9:00 – 9:50 | Tutorial: Matthew Harrison-Trainor (University of Illinois Chicago) <br> Computable structure theory and infinitary logic, Lecture 1. |
 | 10:00 – 10:20 | Coffee. |
-| 10:30 – 11:20 | Tutorial Lecture 1: Nicholas Ramsey (Notre Dame), NSOP1 theories. |
-| 11:30 – 12:20 | Invited Lecture: Jack Lutz (Iowa State), Effective fractal dimensions. | -->
+| 10:30 – 11:20 | Tutorial: Nicholas Ramsey (Notre Dame) <br> NSOP1 theories, Lecture 1. |
+| 11:30 – 12:20 | Invited Lecture: Jack Lutz (Iowa State) <br> Effective fractal dimensions. |
+
+#### Afternoon Special Sessions
+
+| 2:00 - 4:20 | Computability Theory 1 | Model Theory 1 | Set Theory 1 |
+| :- | :---------------------------- | :---------------------------- | :---------------------------- |
+| 2:00 - 2:20 | Jason Block <br> (College of William & Mary) <br> Computability for tree presentations of continuum-size structures. | Blaise Boissonneau <br> (Heinrich Heine University) <br> Some fields, no medal. | Nathaniel Bannister <br> (Carnegie Mellon) <br> Condensed sets and the Solovay model. |
+| 2:30 - 2:50 | Neil Lutz <br> (Swarthmore College) <br> Algorithmic information bounds for distances and orthogonal projections. | Blaise Boissonneau <br> (Heinrich Heine University) <br> Some fields, no medal. | Nathaniel Bannister <br> (Carnegie Mellon) <br> Condensed sets and the Solovay model. |
+| 3:00 - 3:20 | Peter Gerdes <br> (Indiana University) <br> Comparing notions of dense computability on $\omega^\omega$ and $2^\omega$ . | Blaise Boissonneau <br> (Heinrich Heine University) <br> Some fields, no medal. | Nathaniel Bannister <br> (Carnegie Mellon) <br> Condensed sets and the Solovay model. |

@@ -425,3 +425,7 @@ img.in-text {
 .logo-link li {
     display: inline;
 }
+
+td, th, tbody {
+  border: 2px solid var(--tertiary);
+}
