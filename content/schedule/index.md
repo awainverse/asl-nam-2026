@@ -67,7 +67,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 		</tr>
         <tr>
             <td>10:30 - 11:20 </td>
-            <td colspan = 4>Lunch</td>
+            <td colspan = 4><a href="../localarea/#food-and-drink">Lunch</a></td>
         </tr>
         <tr>
             <td> 2:00 - 4:20 </td>

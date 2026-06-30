@@ -17,7 +17,7 @@
     --theme: var(--pennwhite);
     --entry: rgb(255, 255, 255);
     --primary: var(--pennblue);
-    --secondary: var(--pennlightblue);
+    --secondary: rgb(108, 108, 108);
     --tertiary: var(--pennred);
     --content: var(--pennblack);
     --code-block-bg: rgb(28, 29, 33);
