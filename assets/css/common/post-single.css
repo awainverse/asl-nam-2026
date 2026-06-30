@@ -142,8 +142,14 @@
     border-bottom: 1px solid var(--border);
 }
 
-.post-content table th {
-    text-align: start;
+.post-content td {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 14px;
+}
+
+.post-content table th td {
+    text-align: center;
 }
 
 .post-content table:not(.highlighttable) td code:only-child {
