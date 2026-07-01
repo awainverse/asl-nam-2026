@@ -9,7 +9,7 @@ The meeting will take place on July 19-22, 2026.
 
 The [International Congress of Mathematicians](https://www.icm2026.org/) will take place on July 23-30, 2026.
 
-Download the [draft schedule here](../ASL_program.pdf).
+Download the [pdf schedule here](../ASL_program.pdf).
 
 ---
 
