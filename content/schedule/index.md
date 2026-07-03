@@ -72,19 +72,19 @@ The special session rooms are on the second floor of Silverman Hall, which is at
         <tr>
             <td> 2:00 - 4:20 </td>
             <td>
-                Computability 1: S-240a <br>
-                Model Theory 1: S-240b <br>
-                Set Theory 1: S-245a
+                <a href = "CT">Computability</a>: S-240a <br>
+                <a href = "MT">Model Theory</a>: S-240b <br>
+                <a href = "ST">Set Theory</a>: S-245a
             </td>
             <td>
-                Computability 2: S-240a <br>
-                Logic in CS 1: S-240b <br>
-                Model Theory 2: S-245a <br>
-                Set Theory 2: S-280
+                <a href = "CT">Computability</a>: S-240a <br>
+                <a href = "CS">Logic in CS</a>: S-240b <br>
+                <a href = "MT">Model Theory</a>: S-245a <br>
+                <a href = "ST">Set Theory</a>: S-280
             </td>
             <td>
-                Logic in CS 2: S-240a <br>
-                Proof Theory: S-240b <br>
+                <a href = "CS">Logic in CS</a>: S-240a <br>
+                <a href = "PT">Proof Theory</a>: S-240b <br>
                 (Coffee, 4:00-4:20)
             </td>
             <td>
@@ -127,7 +127,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 
 #### Special Sessions
 
-| | Computability 1 | Model Theory 1 | Set Theory 1 |
+| | [Computability 1](CT) | [Model Theory 1](MT) | [Set Theory 1](ST) |
 | - | --- | --- | --- |
 |  | S-240a | S-240b | S-245a |
 | 2:00 - 2:20 | Jason Block | Blaise Boissoneau | Nathaniel Bannister |
@@ -140,14 +140,15 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 
 #### Special Sessions
 
-| | Computability 2 | Computer Science 1 | Model Theory 2 | Set Theory 2 |
+| | [Computability 2](CT) | [Computer Science 1](CS) | [Model Theory 2](MT) | [Set Theory 2](ST) |
 | - | --- | --- | --- | --- |
 |  | S-240a | S-240b | S-245a | S-280 |
-| 2:00 - 2:20 | Meng-Che “Turbo” Ho | Joanna Boyland  | Christian d’Elbée | Filippo Calderoni |
+| 2:00 - 2:20 | Meng-Che “Turbo” Ho | Joanna Boyland | Christian d’Elbée | Filippo Calderoni |
 | 2:30 - 2:50 | Johanna Franklin | Robert Andrews | Alexi Block Gorman | Cecelia Higgins |
 | 3:00 - 3:20 | Patrick Lutz | Ilya Shapirovsky | Nicolas Chavarria Gomez | Riley Thornton |
 | 3:30 - 3:50 | Mariya Soskova | Henry Towsner | Yuyan He | Allison Wang |
 | 4:00 - 4:20 | Heidi Benham | Phokion Kolaitis | Jananan Arulseelan | |
+<!-- | 2:00 - 2:20 | Meng-Che “Turbo” Ho <br> *Scott analysis of the Farey graph* | Joanna Boyland <br> *A proof-theoretic compilation from natural deduction to the semi-axiomatic sequent calculus* | Christian d’Elbée <br> *Lie methods for omega-categorical Engel groups* | Filippo Calderoni <br> *The space of ﬁnitely generated groups and classiﬁcation problems* | -->
 
 #### Contributed Talks
 
@@ -162,7 +163,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 
 #### Special Sessions
 
-| | Computer Science 2 | Proof Theory |
+| | [Computer Science 2](CS) | [Proof Theory](PT) |
 | - | --- | --- |
 |  | S-240a | S-240b |
 | 2:00 - 2:20 | Farzaneh Derakhshan | Katalin Bimbó |
