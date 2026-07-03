@@ -30,10 +30,10 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 	<thead>
 		<tr class="header">
 			<th></th>
-			<th>Sunday</th>
-			<th>Monday</th>
-			<th>Tuesday</th>
-			<th>Wednesday</th>
+			<th><a href="#sunday">Sunday</a></th>
+			<th><a href="#monday">Monday</a></th>
+			<th><a href="#tuesday">Tuesday</a></th>
+			<th><a href="#wednesday">Wednesday</a></th>
 		</tr>
 	</thead>
     <tbody>
@@ -106,6 +106,90 @@ The special session rooms are on the second floor of Silverman Hall, which is at
         </tr>
     </tbody>
 </table>
+
+---
+
+## Schedule Details
+
+### Sunday
+<!-- 
+#### Morning
+
+| Time | Location | Speaker/Event |
+| --- | ------------ | ------------ |
+| 8:00 - 9:00 | Golkin Hall Lobby | Registration |
+| 9:00 - 9:50 | Fitts Auditorium | Matthew Harrison-Trainor <br> *Computable structure theory and inﬁnitary logic.*  <br> Tutorial Lecture 1  |
+| 10:00 - 10:20 | Davis Student Union | Coffee  |
+| 10:30 - 11:20 | Fitts Auditorium | Nicholas Ramsey <br> *$NSOP_1$ theories.*  <br> Tutorial Lecture 1  |
+| 11:30 - 12:20 | Fitts Auditorium | Jack Lutz <br> *Eﬀective fractal dimensions.* |
+
+#### Afternoon -->
+
+#### Special Sessions
+
+| | Computability 1 | Model Theory 1 | Set Theory 1 |
+| - | --- | --- | --- |
+|  | S-240a | S-240b | S-245a |
+| 2:00 - 2:20 | Jason Block | Blaise Boissoneau | Nathaniel Bannister |
+| 2:30 - 2:50 | Neil Lutz | Matthias Stout | James Cummings |
+| 3:00 - 3:20 | Peter Gerdes | Atticus Stonestrom | Victoria Gitman |
+| 3:30 - 3:50 | David Gonzalez | Scott Mutchnik  | Siiri Kivimäki |
+| 4:00 - 4:20 | Valentina Harizanov | Ronan O'Gorman | Fanxin Wu |
+
+### Monday
+
+#### Special Sessions
+
+| | Computability 2 | Computer Science 1 | Model Theory 2 | Set Theory 2 |
+| - | --- | --- | --- | --- |
+|  | S-240a | S-240b | S-245a | S-280 |
+| 2:00 - 2:20 | Meng-Che “Turbo” Ho | Joanna Boyland  | Christian d’Elbée | Filippo Calderoni |
+| 2:30 - 2:50 | Johanna Franklin | Robert Andrews | Alexi Block Gorman | Cecelia Higgins |
+| 3:00 - 3:20 | Patrick Lutz | Ilya Shapirovsky | Nicolas Chavarria Gomez | Riley Thornton |
+| 3:30 - 3:50 | Mariya Soskova | Henry Towsner | Yuyan He | Allison Wang |
+| 4:00 - 4:20 | Heidi Benham | Phokion Kolaitis | Jananan Arulseelan | |
+
+#### Contributed Talks
+
+| | Session I-A | Session I-B | Session I-C |
+| - | ----------------- | -------------- | -------------- |
+|  | S-240a | S-240b | S-245a |
+| 4:30 - 4:50 | William Adkisson | Jeremy Beard | Yuxiao Fu |
+| 5:00 - 5:20 | Rishi Banerjee | Katie Ellman-Aspnes | Logan Heath |
+| 5:30 - 5:50 | Yiping Miao | James E. Hanson | Dhruv Kulshreshtha |
+
+### Tuesday
+
+#### Special Sessions
+
+| | Computer Science 2 | Proof Theory |
+| - | --- | --- |
+|  | S-240a | S-240b |
+| 2:00 - 2:20 | Farzaneh Derakhshan | Katalin Bimbó |
+| 2:30 - 2:50 | Andre Scedrov | Elijah Gadsby |
+| 3:00 - 3:20 | Carolyn Talcott | Anton Freund |
+| 3:30 - 3:50 | Will Stafford | Andreas Weiermann |
+| 4:00 - 4:20 | Shay Logan |
+
+#### Contributed Talks
+
+| | Session II-A | Session II-B | Session II-C |
+| - | --- | --- | --- |
+|  | S-240a | S-240b | S-245a |
+| 4:30 - 4:50 | Robert S. Lubarsky | Connor Lockhart  | Tyler Markkanen |
+| 5:00 - 5:20 | Robert S. Lubarsky | Devrim Pekmezci | Karthik Ravishankar |
+| 5:30 - 5:50 | Morenikeji Neri | Jacob Stern | Joey Veltri |
+
+### Wednesday
+
+#### Contributed Talks
+
+| | Session III-A | Session III-B |
+| - | --- | --- |
+|  | S-240a | S-240b | 
+| 4:30 - 4:50 | Helena Rios | Yuki Takahashi  |
+| 5:00 - 5:20 |  | Brian Wynne |
+| 5:30 - 5:50 |  | Hongyu Zhu |
 
 <!-- | | Sunday | Monday | Tuesday | Wednesday |
 | ----- | ------ | ------ | ------ | ------ |
