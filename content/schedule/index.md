@@ -66,7 +66,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
             <td> Phokion Kolaitis </td>
 		</tr>
         <tr>
-            <td>10:30 - 11:20 </td>
+            <td>12:20 - 2:00 </td>
             <td colspan = 4><a href="../localarea/#food-and-drink">Lunch</a></td>
         </tr>
         <tr>
