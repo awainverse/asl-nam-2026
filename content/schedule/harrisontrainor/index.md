@@ -1,0 +1,11 @@
+---
+title: "Tutorial: Computable Structure Theory and Infinitary Logic"
+author: Matthew Harrison-Trainor
+location: Fitts Auditorium
+time: [Sunday 9:00 – 9:50, Monday 9:00 – 9:50, Wednesday 10:30 – 11:20]
+---
+
+--- 
+Computable structure theory is an area of logic that applies techniques from computability theory to study countable mathematical structures such as graphs, linear orders, or groups. The goal is to understand and measure the complexity of working with these structures, including the complexity of describing a structure, of constructing a copy of a structure, of determining whether two structures are isomorphic, or of computing an isomorphism between two structures. This tutorial will introduce some of the central techniques and ideas of computable structure theory.
+
+One of the central themes of computable structure theory has been connections between relative computability and the infinitary logic $L_{\omega_1 ω}$. This is the first-order logic with countably infinite conjunctions and disjunctions. The guiding principle is that, in many instances, robust computational properties emerge from underlying structural features expressible within $L_{\omega_1 ω}$. For example, the Ash-Knight-Manasse-Slaman-Chisholm theorem states that given some relation $R \subseteq A^n$ on a structure $A$, if for every copy $B$ of $A$ the image of $R$ in $B$ is computably enumerable relative to $B$, this must be because $R$ has an infinitary existential definition in $A$. This tutorial will explore a number of different aspects or realizations of this motif that computation and infinitary logic are connected. Among other topics, we will give an introduction to computability-theoretic forcing, which is a central technique for proving such connections, and several applications including connections between functors and interpretations. We will also touch on the back-and-forth relations and their central role in computable structure theory, and the Scott analysis and its role in Vaught’s conjecture.
