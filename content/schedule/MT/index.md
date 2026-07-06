@@ -1,6 +1,10 @@
 ---
 title: Model Theory
 date: 2026-06-14
+build:
+    render: true
+    publishResources: true
+    list: true
 ---
 
 ## Part 1: Sunday, Silverman Hall S-240b.
