@@ -143,7 +143,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 | | [Computability 2](CT) | [Computer Science 1](CS) | [Model Theory 2](MT) | [Set Theory 2](ST) |
 | - | --- | --- | --- | --- |
 |  | S-240a | S-240b | S-245a | S-280 |
-| 2:00 - 2:20 | Meng-Che “Turbo” Ho | Joanna Boyland | Christian d’Elbée | Filippo Calderoni |
+| 2:00 - 2:20 | Meng-Che “Turbo” Ho | Farzaneh Derakhshan | Christian d’Elbée | Filippo Calderoni |
 | 2:30 - 2:50 | Johanna Franklin | Robert Andrews | Alexi Block Gorman | Cecelia Higgins |
 | 3:00 - 3:20 | Patrick Lutz | Ilya Shapirovsky | Nicolas Chavarria Gomez | Riley Thornton |
 | 3:30 - 3:50 | Mariya Soskova | Henry Towsner | Yuyan He | Allison Wang |
@@ -166,7 +166,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 | | [Computer Science 2](CS) | [Proof Theory](PT) |
 | - | --- | --- |
 |  | S-240a | S-240b |
-| 2:00 - 2:20 | Farzaneh Derakhshan | Katalin Bimbó |
+| 2:00 - 2:20 | Joanna Boyland | Katalin Bimbó |
 | 2:30 - 2:50 | Andre Scedrov | Elijah Gadsby |
 | 3:00 - 3:20 | Carolyn Talcott | Anton Freund |
 | 3:30 - 3:50 | Will Stafford | Andreas Weiermann |
