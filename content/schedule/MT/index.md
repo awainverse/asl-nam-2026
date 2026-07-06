@@ -1,5 +1,6 @@
 ---
 title: Model Theory
+date: 2026-06-14
 ---
 
 ## Part 1: Sunday, Silverman Hall S-240b.
