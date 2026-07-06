@@ -1,0 +1,5 @@
+{{- range $index, $page := (where (where .pagelist ".Params.day" "sunday" ) ".Params.time" .time ) }}
+  |
+    {{ .Render "summary" }}
+  |
+{{- end }}

@@ -1,0 +1,9 @@
+<strong>
+    {{ .Params.speaker }}
+</strong>
+<br>
+{{ with .Params.affiliation }}
+    ({{ . }})
+{{ end }}
+<br>
+{{ .Title }}

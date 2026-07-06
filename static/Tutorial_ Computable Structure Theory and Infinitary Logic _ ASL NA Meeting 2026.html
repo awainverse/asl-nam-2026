@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script src="Tutorial_%20Computable%20Structure%20Theory%20and%20Infinitary%20Logic%20_%20ASL%20NA%20Meeting%202026_files/livereload_zXOB.js" data-no-instant="" defer="defer"></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Tutorial: Computable Structure Theory and Infinitary Logic | ASL NA Meeting 2026</title>
+<meta name="keywords" content="">
+<meta name="description" content="
+Computable structure theory is an area of logic that applies techniques from computability theory to study countable mathematical structures such as graphs, linear orders, or groups. The goal is to understand and measure the complexity of working with these structures, including the complexity of describing a structure, of constructing a copy of a structure, of determining whether two structures are isomorphic, or of computing an isomorphism between two structures. This tutorial will introduce some of the central techniques and ideas of computable structure theory.">
+<meta name="author" content="Matthew Harrison-Trainor">
+<link rel="canonical" href="http://localhost:1313/asl-nam-2026/schedule/harrisontrainor/">
+<link crossorigin="anonymous" href="Tutorial_%20Computable%20Structure%20Theory%20and%20Infinitary%20Logic%20_%20ASL%20NA%20Meeting%202026_files/stylesheet.23ab7f35f90a122045dc8194465d0712b1b28743b245_zXOB.css" integrity="sha256-I6t/NfkKEiBF3IGURl0HErGyh0OyRXd30iWJIL0EV+8=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/asl-nam-2026/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/asl-nam-2026/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/asl-nam-2026/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/asl-nam-2026/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/asl-nam-2026/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/asl-nam-2026/schedule/harrisontrainor/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><link rel="stylesheet" href="Tutorial_%20Computable%20Structure%20Theory%20and%20Infinitary%20Logic%20_%20ASL%20NA%20Meeting%202026_files/katex.min_zXOB.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer="defer" src="Tutorial_%20Computable%20Structure%20Theory%20and%20Infinitary%20Logic%20_%20ASL%20NA%20Meeting%202026_files/katex.min_zXOB.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer="defer" src="Tutorial_%20Computable%20Structure%20Theory%20and%20Infinitary%20Logic%20_%20ASL%20NA%20Meeting%202026_files/auto-render.min_zXOB.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/asl-nam-2026/" accesskey="h" title="ASL NA Meeting 2026 (Alt + H)">ASL NA Meeting 2026</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <button id="menu-trigger" aria-haspopup="menu" aria-label="Menu Button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button>
+
+        <ul class="menu hidden">
+            <li>
+                <a href="http://localhost:1313/asl-nam-2026/registration/" title="Registration">
+                    <span>Registration</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/asl-nam-2026/schedule/" title="Schedule">
+                    <span>Schedule</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/asl-nam-2026/travel/" title="Hotel &amp; Travel">
+                    <span>Hotel &amp; Travel</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/asl-nam-2026/social-events/" title="Social Events">
+                    <span>Social Events</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/asl-nam-2026/localarea/" title="Local Area &amp; Dining">
+                    <span>Local Area &amp; Dining</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/asl-nam-2026/family" title="Family">
+                    <span>Family</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/asl-nam-2026/ASL_poster.pdf" title="Poster">
+                    <span>Poster</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Tutorial: Computable Structure Theory and Infinitary Logic
+    </h1>
+    <div class="post-meta">
+      
+
+</div>
+  </header> 
+
+  <div class="post-content">
+  <hr>
+    <h3>Matthew Harrison-Trainor</h3>
+  
+  <b>
+    Fitts Auditorium
+      <ul>
+          <li> Sunday 9:00 – 9:50 </li>
+          <li> Monday 9:00 – 9:50 </li>
+          <li> Wednesday 10:30 – 11:20 </li>
+      </ul>
+  </b><hr>
+<p>Computable structure theory is an area of logic that applies 
+techniques from computability theory to study countable mathematical 
+structures such as graphs, linear orders, or groups. The goal is to 
+understand and measure the complexity of working with these structures, 
+including the complexity of describing a structure, of constructing a 
+copy of a structure, of determining whether two structures are 
+isomorphic, or of computing an isomorphism between two structures. This 
+tutorial will introduce some of the central techniques and ideas of 
+computable structure theory.</p>
+<p>One of the central themes of computable structure theory has been 
+connections between relative computability and the infinitary logic <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>L</mi><mrow><msub><mi>ω</mi><mn>1</mn></msub><mi>ω</mi></mrow></msub></mrow><annotation encoding="application/x-tex">L_{\omega_1 ω}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.9334em; vertical-align: -0.2501em;"></span><span class="mord"><span class="mord mathnormal">L</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.1514em;"><span class="" style="top: -2.55em; margin-left: 0em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span style="margin-right: 0.0359em;" class="mord mathnormal mtight">ω</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.3173em;"><span class="" style="top: -2.357em; margin-left: -0.0359em; margin-right: 0.0714em;"><span class="pstrut" style="height: 2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.143em;"><span class=""></span></span></span></span></span></span><span style="margin-right: 0.0359em;" class="mord mathnormal mtight">ω</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.2501em;"><span class=""></span></span></span></span></span></span></span></span></span></span>.
+ This is the first-order logic with countably infinite conjunctions and 
+disjunctions. The guiding principle is that, in many instances, robust 
+computational properties emerge from underlying structural features 
+expressible within <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>L</mi><mrow><msub><mi>ω</mi><mn>1</mn></msub><mi>ω</mi></mrow></msub></mrow><annotation encoding="application/x-tex">L_{\omega_1 ω}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.9334em; vertical-align: -0.2501em;"></span><span class="mord"><span class="mord mathnormal">L</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.1514em;"><span class="" style="top: -2.55em; margin-left: 0em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span style="margin-right: 0.0359em;" class="mord mathnormal mtight">ω</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.3173em;"><span class="" style="top: -2.357em; margin-left: -0.0359em; margin-right: 0.0714em;"><span class="pstrut" style="height: 2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.143em;"><span class=""></span></span></span></span></span></span><span style="margin-right: 0.0359em;" class="mord mathnormal mtight">ω</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.2501em;"><span class=""></span></span></span></span></span></span></span></span></span></span>. For example, the Ash-Knight-Manasse-Slaman-Chisholm theorem states that given some relation <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>R</mi><mo>⊆</mo><msup><mi>A</mi><mi>n</mi></msup></mrow><annotation encoding="application/x-tex">R \subseteq A^n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.8193em; vertical-align: -0.136em;"></span><span style="margin-right: 0.0077em;" class="mord mathnormal">R</span><span class="mspace" style="margin-right: 0.2778em;"></span><span class="mrel">⊆</span><span class="mspace" style="margin-right: 0.2778em;"></span></span><span class="base"><span class="strut" style="height: 0.6833em;"></span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.6644em;"><span class="" style="top: -3.063em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span></span></span></span></span> on a structure <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.6833em;"></span><span class="mord mathnormal">A</span></span></span></span></span>, if for every copy <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>B</mi></mrow><annotation encoding="application/x-tex">B</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.6833em;"></span><span style="margin-right: 0.0502em;" class="mord mathnormal">B</span></span></span></span></span> of <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.6833em;"></span><span class="mord mathnormal">A</span></span></span></span></span> the image of <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>R</mi></mrow><annotation encoding="application/x-tex">R</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.6833em;"></span><span style="margin-right: 0.0077em;" class="mord mathnormal">R</span></span></span></span></span> in <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>B</mi></mrow><annotation encoding="application/x-tex">B</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.6833em;"></span><span style="margin-right: 0.0502em;" class="mord mathnormal">B</span></span></span></span></span> is computably enumerable relative to <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>B</mi></mrow><annotation encoding="application/x-tex">B</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.6833em;"></span><span style="margin-right: 0.0502em;" class="mord mathnormal">B</span></span></span></span></span>, this must be because <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>R</mi></mrow><annotation encoding="application/x-tex">R</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.6833em;"></span><span style="margin-right: 0.0077em;" class="mord mathnormal">R</span></span></span></span></span> has an infinitary existential definition in <span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.6833em;"></span><span class="mord mathnormal">A</span></span></span></span></span>.
+ This tutorial will explore a number of different aspects or 
+realizations of this motif that computation and infinitary logic are 
+connected. Among other topics, we will give an introduction to 
+computability-theoretic forcing, which is a central technique for 
+proving such connections, and several applications including connections
+ between functors and interpretations. We will also touch on the 
+back-and-forth relations and their central role in computable structure 
+theory, and the Scott analysis and its role in Vaught’s conjecture.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>© 2025, ASL and 2026 Organizers</span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &amp;
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g" style="visibility: hidden; opacity: 0;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z"></path>
+    </svg>
+</a>
+<script language="javascript" type="text/javascript" src="Tutorial_%20Computable%20Structure%20Theory%20and%20Infinitary%20Logic%20_%20ASL%20NA%20Meeting%202026_files/menu-trigger.min.aa0f772e61a331c8fc9605144a42cd7b04abce7_zXOB.js"></script>
+
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+
+
+
+</body></html>
