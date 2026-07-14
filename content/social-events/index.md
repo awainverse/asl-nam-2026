@@ -5,4 +5,11 @@ menu:
         weight: 4
 ---
 
-Stay tuned for information about social events.
+We will have a reception from 6:00 to 8:00 PM at the [Penn Museum](https://maps.app.goo.gl/fnyDhp2yNZYMtvCF8).
+It is approximately a 10 minute walk from the [Penn Carey Law School](../localarea/carey) where the rest of the conference will take place. [See here](https://www.penn.museum/visit/getting-here) for transit or parking directions if needed.
+Please enter the museum via the main entrance on South Street.
+
+{{% museum_map %}}
+
+![Image](museum-acc-entrance.png "Museum Map With Entrances Labelled")
+{.center}
