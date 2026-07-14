@@ -45,7 +45,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 		</tr>
         <tr>
 		    <td>9:00 – 9:50 <br> Fitts Auditorium </td>
-			<td colspan = 2> Matthew Harrison-Trainor </td>
+			<td colspan = 2> Matthew Harrison-Trainor <br> Tutorial 1, 2 </td>
 			<td>Caroline Terry</td>
             <td>Juliette Kennedy</td>
 		</tr>
@@ -55,8 +55,8 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 		</tr>
         <tr>
 		    <td>10:30 - 11:20 <br> Fitts Auditorium </td>
-			<td colspan = 3> Nicholas Ramsey </td>
-			<td>Matthew Harrison-Trainor</td>
+			<td colspan = 3> Nicholas Ramsey <br> Tutorial 1, 2, 3 </td>
+			<td>Matthew Harrison-Trainor <br> Tutorial 3</td>
 		</tr>
         <tr>
 		    <td>11:30 - 12:20 <br> Fitts Auditorium </td>
@@ -84,14 +84,18 @@ The special session rooms are on the second floor of Silverman Hall, which is at
             </td>
             <td>
                 <a href = "cs">Logic in CS</a>: S-240a <br>
-                <a href = "pt">Proof Theory</a>: S-240b <br>
-                (Coffee, 4:00-4:20)
+                <a href = "pt">Proof Theory</a>: S-240b
             </td>
             <td>
                 Panel on Hilbert's consistency program <br>
                 Fitts Auditorium
             </td>
         </tr>
+        <tr>
+		    <td>3:00 - 4:30 </td>
+			<td colspan = 4>Coffee, concurrent with special sessions<br>
+             Sunday - Tuesday: Kabacoff Reading Room (Silverman), Wednesday: Davis Student Union  </td>
+		</tr>
         <tr>
             <td rowspan = 2> </td>
             <td> Lawrence Moss <br>
