@@ -15,9 +15,9 @@ Download the [pdf schedule here](../ASL_program.pdf).
 
 ## Overview
 
-All locations are in Golkin Hall (where the main Penn Carey Law entrance is),
-except for the special session rooms (S-240a, S-240b, S-245a, S-280), and the Penn Museum.
-The special session rooms are on the second floor of Silverman Hall, which is attached to Golkin Hall.
+All locations are in [Golkin Hall](../localarea/carey/#golkin-downstairs) (where the [main Penn Carey Law entrance](../localarea/carey/#entrance) is),
+except for the special session/contributed talk rooms (S-240a, S-240b, S-245a, S-280), and the Penn Museum.
+The special session rooms are on the second floor of [Silverman Hall](../localarea/carey/#silverman-upstairs), which is attached to Golkin Hall.
 
 <table>
     <colgroup>
@@ -39,27 +39,27 @@ The special session rooms are on the second floor of Silverman Hall, which is at
     <tbody>
         <tr>
 		    <td>8:00 - 9:00
-            <br> Golkin Hall Lobby </td>
+            <br> <a href="../localarea/carey/#entrance">Golkin Hall Lobby</a> </td>
 			<td>Registration  </td>
 			<td colspan="3"></td>
 		</tr>
         <tr>
-		    <td>9:00 – 9:50 <br> Fitts Auditorium </td>
+		    <td>9:00 – 9:50 <br> <a href="../localarea/carey/#golkin-downstairs">Fitts Auditorium</a> </td>
 			<td colspan = 2> Matthew Harrison-Trainor <br> Tutorial 1, 2 </td>
 			<td>Caroline Terry</td>
             <td>Juliette Kennedy</td>
 		</tr>
         <tr>
-		    <td>10:00 - 10:20 <br> Davis Student Union </td>
+		    <td>10:00 - 10:20 <br> <a href="../localarea/carey/#golkin-downstairs">Davis Student Union</a> </td>
 			<td colspan = 4>Coffee </td>
 		</tr>
         <tr>
-		    <td>10:30 - 11:20 <br> Fitts Auditorium </td>
+		    <td>10:30 - 11:20 <br> <a href="../localarea/carey/#golkin-downstairs">Fitts Auditorium</a> </td>
 			<td colspan = 3> Nicholas Ramsey <br> Tutorial 1, 2, 3 </td>
 			<td>Matthew Harrison-Trainor <br> Tutorial 3</td>
 		</tr>
         <tr>
-		    <td>11:30 - 12:20 <br> Fitts Auditorium </td>
+		    <td>11:30 - 12:20 <br> <a href="../localarea/carey/#golkin-downstairs">Fitts Auditorium</a> </td>
 			<td> Jack Lutz </td>
 			<td> Vincenzo De Risi </td>
             <td> Will Brian </td>
@@ -72,37 +72,37 @@ The special session rooms are on the second floor of Silverman Hall, which is at
         <tr>
             <td> 2:00 - 4:20 </td>
             <td>
-                <a href = "ct">Computability</a>: S-240a <br>
-                <a href = "mt">Model Theory</a>: S-240b <br>
-                <a href = "st">Set Theory</a>: S-245a
+                <a href = "ct">Computability</a>: <a href="../localarea/carey/#silverman-upstairs">S-240a</a> <br>
+                <a href = "mt">Model Theory</a>: <a href="../localarea/carey/#silverman-upstairs">S-240b</a> <br>
+                <a href = "st">Set Theory</a>: <a href="../localarea/carey/#silverman-upstairs">S-245a</a>
             </td>
             <td>
-                <a href = "ct">Computability</a>: S-240a <br>
-                <a href = "cs">Logic in CS</a>: S-240b <br>
-                <a href = "mt">Model Theory</a>: S-245a <br>
-                <a href = "st">Set Theory</a>: S-280
+                <a href = "ct">Computability</a>: <a href="../localarea/carey/#silverman-upstairs">S-240a</a> <br>
+                <a href = "cs">Logic in CS</a>: <a href="../localarea/carey/#silverman-upstairs">S-240b</a> <br>
+                <a href = "mt">Model Theory</a>: <a href="../localarea/carey/#silverman-upstairs">S-245a</a> <br>
+                <a href = "st">Set Theory</a>: <a href="../localarea/carey/#silverman-upstairs">S-280</a>
             </td>
             <td>
-                <a href = "cs">Logic in CS</a>: S-240a <br>
-                <a href = "pt">Proof Theory</a>: S-240b
+                <a href = "cs">Logic in CS</a>: <a href="../localarea/carey/#silverman-upstairs">S-240a</a> <br>
+                <a href = "pt">Proof Theory</a>: <a href="../localarea/carey/#silverman-upstairs">S-240b</a>
             </td>
             <td>
                 Panel on Hilbert's consistency program <br>
-                Fitts Auditorium
+                <a href="../localarea/carey/#golkin-downstairs">Fitts Auditorium</a>
             </td>
         </tr>
         <tr>
 		    <td>3:00 - 4:30 </td>
-			<td colspan = 4>Coffee, concurrent with special sessions<br>
-             Sunday - Tuesday: Kabacoff Reading Room (Silverman), Wednesday: Davis Student Union  </td>
+			<td colspan = 4>Coffee, concurrent with other sessions<br>
+             Sunday - Tuesday: <a href="../localarea/carey/#silverman-upstairs">Kabacoff Reading Room</a>, Wednesday: <a href="../localarea/carey/#golkin-downstairs">Davis Student Union</a>  </td>
 		</tr>
         <tr>
             <td rowspan = 2> </td>
             <td> Lawrence Moss <br>
-                4:30 - 5:20 <br> Fitts Auditorium </td>
+                4:30 - 5:20 <br> <a href="../localarea/carey/#golkin-downstairs">Fitts Auditorium</a> </td>
             <td colspan = 3> Contributed Talks <br>
                 4:30 - 5:50 <br>
-                S-240a, S-240b, S-245a </td>
+                <a href="../localarea/carey/#silverman-upstairs">S-240a, S-240b, S-245a</a> </td>
         </tr>
         <tr>
             <td>  Reception <br> 6:00 - 8:00 <br> Penn Museum </td>
@@ -133,7 +133,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 
 | | [Computability 1](ct) | [Model Theory 1](mt) | [Set Theory 1](st) |
 | - | --- | --- | --- |
-|  | S-240a | S-240b | S-245a |
+|  | [S-240a](../localarea/carey/#silverman-upstairs) | [S-240b](../localarea/carey/#silverman-upstairs) | [S-245a](../localarea/carey/#silverman-upstairs) |
 | 2:00 - 2:20 | Jason Block | Blaise Boissoneau | Nathaniel Bannister |
 | 2:30 - 2:50 | Neil Lutz | Matthias Stout | James Cummings |
 | 3:00 - 3:20 | Peter Gerdes | Atticus Stonestrom | Victoria Gitman |
@@ -146,7 +146,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 
 | | [Computability 2](ct) | [Computer Science 1](cs) | [Model Theory 2](mt) | [Set Theory 2](st) |
 | - | --- | --- | --- | --- |
-|  | S-240a | S-240b | S-245a | S-280 |
+|  | [S-240a](../localarea/carey/#silverman-upstairs) | [S-240b](../localarea/carey/#silverman-upstairs) | [S-245a](../localarea/carey/#silverman-upstairs) | [S-280](../localarea/carey/#silverman-upstairs) |
 | 2:00 - 2:20 | Meng-Che “Turbo” Ho | Farzaneh Derakhshan | Christian d’Elbée | Filippo Calderoni |
 | 2:30 - 2:50 | Johanna Franklin | Robert Andrews | Alexi Block Gorman | Cecelia Higgins |
 | 3:00 - 3:20 | Patrick Lutz | Ilya Shapirovsky | Nicolas Chavarria Gomez | Riley Thornton |
@@ -158,7 +158,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 
 | | Session I-A | Session I-B | Session I-C |
 | - | ----------------- | -------------- | -------------- |
-|  | S-240a | S-240b | S-245a |
+|  | [S-240a](../localarea/carey/#silverman-upstairs) | [S-240b](../localarea/carey/#silverman-upstairs) | [S-245a](../localarea/carey/#silverman-upstairs) |
 | 4:30 - 4:50 | William Adkisson | Jeremy Beard | Yuxiao Fu |
 | 5:00 - 5:20 | Rishi Banerjee | Katie Ellman-Aspnes | Logan Heath |
 | 5:30 - 5:50 | Yiping Miao | James E. Hanson | Dhruv Kulshreshtha |
@@ -169,7 +169,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 
 | | [Computer Science 2](cs) | [Proof Theory](pt) |
 | - | --- | --- |
-|  | S-240a | S-240b |
+|  | [S-240a](../localarea/carey/#silverman-upstairs) | [S-240b](../localarea/carey/#silverman-upstairs) |
 | 2:00 - 2:20 | Joanna Boyland | Katalin Bimbó |
 | 2:30 - 2:50 | Andre Scedrov | Elijah Gadsby |
 | 3:00 - 3:20 | Carolyn Talcott | Anton Freund |
@@ -180,7 +180,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 
 | | Session II-A | Session II-B | Session II-C |
 | - | --- | --- | --- |
-|  | S-240a | S-240b | S-245a |
+|  | [S-240a](../localarea/carey/#silverman-upstairs) | [S-240b](../localarea/carey/#silverman-upstairs) | [S-245a](../localarea/carey/#silverman-upstairs) |
 | 4:30 - 4:50 | Robert S. Lubarsky | Connor Lockhart  | Tyler Markkanen |
 | 5:00 - 5:20 | Robert S. Lubarsky | Devrim Pekmezci | Karthik Ravishankar |
 | 5:30 - 5:50 | Morenikeji Neri | Jacob Stern | Joey Veltri |
@@ -191,7 +191,7 @@ The special session rooms are on the second floor of Silverman Hall, which is at
 
 | | Session III-A | Session III-B |
 | - | --- | --- |
-|  | S-240a | S-240b | 
+|  | [S-240a](../localarea/carey/#silverman-upstairs) | [S-240b](../localarea/carey/#silverman-upstairs) | 
 | 4:30 - 4:50 | Helena Rios | Yuki Takahashi  |
 | 5:00 - 5:20 |  | Brian Wynne |
 | 5:30 - 5:50 |  | Hongyu Zhu |

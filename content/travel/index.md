@@ -6,7 +6,8 @@ menu:
         weight: 3
 ---
 
-The conference will take place at [UPenn's Carey Law School](https://www.law.upenn.edu/), in Philadelphia, Pennsylvania.
+The conference will take place at [UPenn's Carey Law School](../localarea/carey), in Philadelphia, Pennsylvania. For more detailed campus maps and information, [see here](../localarea/carey).
+
 
 {{% map %}}
 
