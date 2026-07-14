@@ -105,7 +105,7 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
                 <a href="../localarea/carey/#silverman-upstairs">S-240a, S-240b, S-245a</a> </td>
         </tr>
         <tr>
-            <td>  Reception <br> 6:00 - 8:00 <br> Penn Museum </td>
+            <td>  <a href="../social-events/">Reception <br> 6:00 - 8:00 <br> Penn Museum</a> </td>
             <td colspan = 3>  </td>
         </tr>
     </tbody>
