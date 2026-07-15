@@ -6,7 +6,7 @@ menu:
 ---
 
 Registration is now open at this link: [https://aslonline.org/na-meeting-registration/](https://aslonline.org/na-meeting-registration/).
-Registration at the standard fee is open until July 1, at which point late registration will be begin with a higher fee.
+Standard registration is closed as of July 1, but late registration is open with a higher fee.
 
 Student travel applications and contributed talk submissions are closed as of April 19th.
 
