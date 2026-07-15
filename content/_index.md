@@ -36,23 +36,25 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 
 ### Special Sessions
 
-- **Computability Theory**
+- **[Computability Theory](schedule/ct)**
 
   [Denis Hirschfeldt](https://math.uchicago.edu/~drh/) and [Karen Lange](https://www.wellesley.edu/people/karen-lange)
 
-- **Logic in Computer Science**
+- **[Logic in Computer Science](schedule/cs)**
  
   [Elaine Pimentel](https://sites.google.com/site/elainepimentel/) and [Val Tannen](https://www.cis.upenn.edu/~val/home.html)
 
-- **Model-Theoretic Algebra**
+- **[Model-Theoretic Algebra](schedule/mt)**
+
+  (in memoriam Zoé Chatzidakis)
   
   [Ben Castle](https://bencastle.web.illinois.edu/) and [Franziska Jahnke](https://ivv5hpp.uni-muenster.de/u/fjahn_01/en/)
 
-- **Proof Theory**
+- **[Proof Theory](schedule/pt)**
   
   [Michael Rathjen](https://michrathjen.github.io/) and [James Walsh](https://www.jameswalsh.org/)
 
-- **Set Theory**
+- **[Set Theory](schedule/st)**
   
   [Justin Moore](https://math.cornell.edu/justin-moore) and [Dima Sinapova](https://sites.math.rutgers.edu/~ds2005/)
 
