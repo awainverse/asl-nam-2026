@@ -118,7 +118,7 @@ This conference is a satellite meeting of the [International Congress of Mathema
 - University of Pennsylvania Schools:
   - School of Arts and Sciences
   - School of Engineering and Applied Sciences
-  - Carey Law School
+  - Penn Carey Law School
 - National Science Foundation
 - Thomas and Yvonne Williams Fund for the Advancement of Logic and Philosophy
 
