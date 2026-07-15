@@ -1,11 +1,13 @@
 ---
-title: Model Theory
+title: Model Theoretic Algebra (in memoriam Zoé Chatzidakis)
 date: 2026-06-14
 build:
     render: true
     publishResources: true
     list: true
 ---
+
+in memory of 
 
 ## Part 1: Sunday, Silverman Hall S-240b.
 
