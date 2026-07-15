@@ -9,7 +9,12 @@ The meeting will take place on July 19-22, 2026.
 
 The [International Congress of Mathematicians](https://www.icm2026.org/) will take place on July 23-30, 2026.
 
-Download the [pdf schedule here](../ASL_program.pdf).
+Download the [pdf program here](../ASL_program.pdf),
+or download the day-by-day schedule summary pdfs here:
+- [Sunday](sunday.pdf)
+- [Monday](monday.pdf)
+- [Tuesday](tuesday.pdf)
+- [Wednesday](wednesday.pdf)
 
 ---
 
@@ -116,6 +121,8 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 ## Schedule Details
 
 ### Sunday
+
+[Sunday pdf schedule.](sunday.pdf)
 <!-- 
 #### Morning
 
@@ -141,6 +148,8 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 | 4:00 - 4:20 | Valentina Harizanov | Ronan O'Gorman | Fanxin Wu |
 
 ### Monday
+
+[Monday pdf schedule.](monday.pdf)
 
 #### Special Sessions
 
@@ -177,6 +186,8 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 
 ### Tuesday
 
+[Tuesday pdf schedule.](tuesday.pdf)
+
 #### Special Sessions
 
 | | [Computer Science 2](cs) | [Proof Theory](pt) |
@@ -210,6 +221,8 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 | 5:30 - 5:50 | Morenikeji Neri | Jacob Stern | Joey Veltri | -->
 
 ### Wednesday
+
+[Wednesday pdf schedule.](wednesday.pdf)
 
 #### Contributed Talks
 
