@@ -2,7 +2,7 @@
 title: Penn Carey Law Campus
 ---
 
-The conference will take place at [UPenn's Carey Law School](https://www.law.upenn.edu/), in Philadelphia, Pennsylvania.
+The conference will take place at [Penn Carey Law School](https://www.law.upenn.edu/), in Philadelphia, Pennsylvania.
 
 {{% map %}}
 

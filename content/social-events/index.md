@@ -13,3 +13,8 @@ Please enter the museum via the main entrance on South Street.
 
 ![Image](museum-acc-entrance.png "Museum Map With Entrances Labelled")
 {.center}
+
+Once in the museum, we will guide you to the Upper Baugh Gallery (51 and 52 on this map):
+
+![Image](museum_map.png "Detailed Museum Map With Gallery Labelled")
+{.center}
