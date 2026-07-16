@@ -12,7 +12,7 @@ build:
 
 | Time | Speaker | Title |
 | - | --- | --- |
-| 2:00 - 2:20 | Blaise Boissoneau | *Some ﬁelds, no medal.*|
+| 2:00 - 2:20 | Blaise Boissoneau | *<span class="red-text">cancelled</span>* |
 | 2:30 - 2:50 | Matthias Stout | *Formalizing the model theory of valued ﬁelds.* |
 | 3:00 - 3:20 | Atticus Stonestrom | *On NIP approximate groups.* |
 | 3:30 - 3:50 | Scott Mutchnik  | *Classifying classiﬁcation-theoretic properties.* |

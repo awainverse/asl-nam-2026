@@ -141,7 +141,7 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 | | [Computability 1](ct) | [Model Theory 1](mt) | [Set Theory 1](st) |
 | - | --- | --- | --- |
 |  | [S-240a](../localarea/carey/#silverman-upstairs) | [S-240b](../localarea/carey/#silverman-upstairs) | [S-245a](../localarea/carey/#silverman-upstairs) |
-| 2:00 - 2:20 | Jason Block | Blaise Boissoneau | Nathaniel Bannister |
+| 2:00 - 2:20 | Jason Block | <span class="red-text">cancelled</span> | Nathaniel Bannister |
 | 2:30 - 2:50 | Neil Lutz | Matthias Stout | James Cummings |
 | 3:00 - 3:20 | Peter Gerdes | Atticus Stonestrom | Victoria Gitman |
 | 3:30 - 3:50 | David Gonzalez | Scott Mutchnik  | Siiri Kivimäki |
