@@ -259,6 +259,10 @@
     font-weight: normal;
 }
 
+.red-text {
+    color: var(--pennred);
+}
+
 .toc {
     margin: 0 2px 40px 2px;
     border: 1px solid var(--border);
