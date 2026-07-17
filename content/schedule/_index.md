@@ -16,6 +16,10 @@ or download the day-by-day schedule summary pdfs here:
 - [Tuesday](tuesday.pdf)
 - [Wednesday](wednesday.pdf)
 
+We will also be livestreaming many of the talks.
+See here for the links:
+- [Sunday](https://penncareylaw.zoom.us/j/92459021965?pwd=XMxs4effwChafYA2wqj676FojnYa9V.1)
+
 ---
 
 ## Overview
@@ -122,7 +126,8 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 
 ### Sunday
 
-[Sunday pdf schedule.](sunday.pdf)
+- [Sunday pdf schedule.](sunday.pdf)
+- [Sunday livestream link for select talks.](https://penncareylaw.zoom.us/j/92459021965?pwd=XMxs4effwChafYA2wqj676FojnYa9V.1)
 <!-- 
 #### Morning
 
