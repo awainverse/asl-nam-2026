@@ -8,7 +8,8 @@ menu:
 
 The conference will take place at [Penn Carey Law School](../localarea/carey), in Philadelphia, Pennsylvania. For more detailed campus maps and information, [see here](../localarea/carey).
 
-Please be advised that as of Friday, July 17, Philadelphia is dealing with unhealthy air quality. This is due to substantial wildfires in Ontario and Minnesota. It seems [likely](https://outlooks.airfire.org/outlook/131db5f5) that conditions will improve by Sunday, but it may still be a good idea to travel with an N95 mask, or at least [keep an eye on the air quality.](https://www.airnow.gov/?city=Philadelphia&state=PA&country=USA)
+Please be advised that as of Saturday morning, July 18, Philadelphia is dealing with unhealthy air quality. This is due to substantial wildfires in Ontario and Minnesota. 
+It is improving, and it seems [likely](https://outlooks.airfire.org/outlook/131db5f5) that conditions will be normal by Sunday, but it is still a good idea to travel with an N95 mask and [keep an eye on the air quality.](https://www.airnow.gov/?city=Philadelphia&state=PA&country=USA)
 {.red-text}
 
 {{% map %}}
