@@ -21,6 +21,8 @@ See here for the links. Note that while the Sunday link will be on Zoom, the wee
 - [Sunday](https://penncareylaw.zoom.us/j/92459021965?pwd=XMxs4effwChafYA2wqj676FojnYa9V.1)
 - [Monday](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea1dca24-76cd-4488-835c-b48a013af23d__;!!IBzWLUs!UVNXfDurur0gFBVwJMpk72WZUcG4dMmOe5P3PHzyhsPonIj0NiKeAVyZLXKuiohSETiUwOmv8rGZI51z0cBXjLkWbg$)
 
+Speakers who would like their slides accessible on this website should email them to [awanders@sas.upenn.edu](mailto:awanders@sas.upenn.edu).
+
 ---
 
 ## Overview
