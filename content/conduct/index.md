@@ -20,4 +20,4 @@ All participants at ASL meetings are expected to try to prevent behavior that wo
 
 If you are the target of some form of discrimination or harassment, or if you witness inappropriate behavior directed at someone else, please report to the trusted person, or, if you prefer, to the chair of the local organizing committee. Reports can be about individual incidents or about patterns of behavior, or organizational features that might be working against a welcoming environment. These may occur not only at the (physical) meeting site, but also at online sites, social events related to the meeting, etc.
 
-The Trusted Person for Logic Colloquium 2026 is [Karen Lange](mailto:klange2@wellesley.edu). 
+The Trusted Person for Logic Colloquium 2026 is Karen Lange, who can be reached at [klange2@wellesley.edu](mailto:klange2@wellesley.edu). 
