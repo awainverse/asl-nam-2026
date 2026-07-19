@@ -24,7 +24,7 @@ The 2026 North American Annual Meeting of the Association for Symbolic Logic wil
 
 ### Tutorials
 
-- **NSOP₁**
+- **[NSOP₁](https://nickramsey621.github.io/nsop1-tutorial.html)**
   
   [Nick Ramsey](https://www.nramseymath.com/)
 
