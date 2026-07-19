@@ -64,7 +64,7 @@ Walking, the [{{% septa_L %}} subway](https://www.septa.org/schedules/L1), and t
 
   Massive food hall (closes at 6PM). The location of the ICM Welcome Reception on 7/22, 7-10 PM.
   
-  [Take the {{% septa_L %}} to 13th or 11th.](https://www.septa.org/schedules/L1?startStop=2453&endStop=2456&directionId=0&date=2025-06-06)
+  [Take the {{% septa_L %}} to 11th.](https://www.septa.org/schedules/L1?startStop=2453&endStop=2456&directionId=0&date=2025-06-06)
 
 - **Independence Mall**
 

@@ -17,8 +17,9 @@ or download the day-by-day schedule summary pdfs here:
 - [Wednesday](wednesday.pdf)
 
 We will also be livestreaming many of the talks.
-See here for the links:
+See here for the links. Note that while the Sunday link will be on Zoom, the weekday links will be on Panopto.
 - [Sunday](https://penncareylaw.zoom.us/j/92459021965?pwd=XMxs4effwChafYA2wqj676FojnYa9V.1)
+- [Monday](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea1dca24-76cd-4488-835c-b48a013af23d__;!!IBzWLUs!UVNXfDurur0gFBVwJMpk72WZUcG4dMmOe5P3PHzyhsPonIj0NiKeAVyZLXKuiohSETiUwOmv8rGZI51z0cBXjLkWbg$)
 
 ---
 
@@ -154,7 +155,8 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 
 ### Monday
 
-[Monday pdf schedule.](monday.pdf)
+- [Monday pdf schedule.](monday.pdf)
+- [Monday livestream link for select talks.](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea1dca24-76cd-4488-835c-b48a013af23d__;!!IBzWLUs!UVNXfDurur0gFBVwJMpk72WZUcG4dMmOe5P3PHzyhsPonIj0NiKeAVyZLXKuiohSETiUwOmv8rGZI51z0cBXjLkWbg$)
 
 #### Special Sessions
 
