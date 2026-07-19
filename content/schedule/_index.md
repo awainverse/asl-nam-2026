@@ -149,9 +149,9 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 |  | [S-240a](../localarea/carey/#silverman-upstairs) | [S-240b](../localarea/carey/#silverman-upstairs) | [S-245a](../localarea/carey/#silverman-upstairs) |
 | 2:00 - 2:20 | Jason Block | <span class="red-text">cancelled</span> | Nathaniel Bannister |
 | 2:30 - 2:50 | Neil Lutz | Matthias Stout | James Cummings |
-| 3:00 - 3:20 | Peter Gerdes | <span class="red-text">cancelled</span> | Victoria Gitman |
-| 3:30 - 3:50 | David Gonzalez | Scott Mutchnik  | Siiri Kivimäki |
-| 4:00 - 4:20 | Valentina Harizanov | Ronan O'Gorman | Fanxin Wu |
+| 3:00 - 3:20 | Peter Gerdes | Scott Mutchnik <span class="red-text">shifted early</span> | Victoria Gitman |
+| 3:30 - 3:50 | David Gonzalez | Ronan O'Gorman <span class="red-text">shifted early</span> | Siiri Kivimäki |
+| 4:00 - 4:20 | Valentina Harizanov | <span class="red-text">cancelled</span> | Fanxin Wu |
 
 ### Monday
 

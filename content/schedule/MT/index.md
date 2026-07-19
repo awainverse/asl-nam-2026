@@ -14,9 +14,10 @@ build:
 | - | --- | --- |
 | 2:00 - 2:20 | Blaise Boissoneau | *<span class="red-text">cancelled</span>* |
 | 2:30 - 2:50 | Matthias Stout | *Formalizing the model theory of valued ﬁelds.* |
-| 3:00 - 3:20 | Atticus Stonestrom | *<span class="red-text">cancelled</span>* |
-| 3:30 - 3:50 | Scott Mutchnik  | *Classifying classiﬁcation-theoretic properties.* |
-| 4:00 - 4:20 | Ronan O'Gorman | *Abstract group chunks.* |
+| 3:00 - 3:20 | Scott Mutchnik  | *Classifying classiﬁcation-theoretic properties. <span class="red-text">(shifted early)</span>* |
+| 3:30 - 3:50 | Ronan O'Gorman | *Abstract group chunks. <span class="red-text">(shifted early)</span>* |
+| 4:00 - 4:20 | Atticus Stonestrom | *<span class="red-text">cancelled</span>* |
+
 
 ## Part 2: Monday, Silverman Hall S-245a.
 
