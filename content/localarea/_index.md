@@ -41,7 +41,20 @@ There are also a variety of food trucks and carts around UPenn and Drexel campus
 
 Walking, the [{{% septa_L %}} subway](https://www.septa.org/schedules/L1), and the [{{% septa_T %}} trolleys](https://www.septa.org/schedules/T) can get you to most of the dining in Center City and University City/West Philly.
 
+Here is a small selection, mostly near Rittenhouse Square, which you can walk to. I would recommend making a reservation, or at least checking reservation availability, for most of these.
 
+- [Sally](http://sallyphl.com/) (Pizza and natural wine, great outdoor seating)
+- [Rosy's Taco Bar](http://rosystacobar.com/) (Mexican, outdoor seating, usually has space for a large group)
+- [Banh Philly](https://www.banhpa.com/) (Vietnamese, usually has space)
+- [Monk's Cafe](http://www.monkscafe.com/) (Belgian food and beer, no reservations)
+- [Dizengoff](http://www.dizengoffphilly.com/) (Hummus and such, same operation as Goldie)
+- [Bar Bombón](http://barbombon.com/) (Vegan Puerto Rican)
+  - See also [Pietramala](http://pietramalaphl.com/) and [Vedge](http://www.vedgerestaurant.com/) for spectacular high-end vegan food.
+- [Grandma's Philly](http://www.grandmasphilly.com/) (Thai, I recommend the Khao Soi)
+- Several great ice cream places, all right by Rittenhouse Square
+  - [Malai](https://www.malai.co/) (Indian flavors)
+  - [1-900-ICE-CREAM](https://1900icecream.com/) (Soft serve)
+  - [Gran Caffé L'Aquila](https://grancaffelaquila.com/) (Gelato)
 
 ---
 
