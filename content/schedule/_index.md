@@ -183,13 +183,13 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 | - | --- | --- | --- |
 | 4:30 - 4:50 | William Adkisson | *Strong Tree properties on segments of successors of singulars.* | S-240a |
 |  | Jeremy Beard | *Limit models in strictly stable AECs.* | S-240b |
-| | Yuxiao Fu | *Weihrauch degrees of embeddability problems.* | S-245a |
+| | Yuxiao Fu | *Weihrauch degrees of embeddability problems.* | <span class="red-text">S-280</span> |
 | 5:00 - 5:20 | Rishi Banerjee | *Structurable equivalence relations and $L_{\omega_1,\omega}$ interpretations.* | S-240a |
 |  | Katie Ellman-Aspnes | *Approximating $NSOP_1$ structures.* | S-240b |
-|  | Logan Heath | *Uubs and suubs as theory spectra.* | S-245a |
+|  | Logan Heath | *Uubs and suubs as theory spectra.* | <span class="red-text">S-280</span> |
 | 5:30 - 5:50 | Yiping Miao | *Generic reals and gauge dimensions.* | S-240a |
 |  | James E. Hanson | *Small large cardinals and neostability theory.* | S-240b |
-|  | Dhruv Kulshreshtha | *A robust subclass of the nontotal continuous degrees.* | S-245a |
+|  | Dhruv Kulshreshtha | *A robust subclass of the nontotal continuous degrees.* | <span class="red-text">S-280</span> |
 <!-- 
 | | Session I-A | Session I-B | Session I-C |
 | - | ----------------- | -------------- | -------------- |
