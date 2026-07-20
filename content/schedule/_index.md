@@ -20,6 +20,8 @@ We will also be livestreaming many of the talks.
 See here for the links. Note that while the Sunday link will be on Zoom, the weekday links will be on Panopto.
 - [Sunday](https://penncareylaw.zoom.us/j/92459021965?pwd=XMxs4effwChafYA2wqj676FojnYa9V.1)
 - [Monday](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea1dca24-76cd-4488-835c-b48a013af23d__;!!IBzWLUs!UVNXfDurur0gFBVwJMpk72WZUcG4dMmOe5P3PHzyhsPonIj0NiKeAVyZLXKuiohSETiUwOmv8rGZI51z0cBXjLkWbg$)
+- [Tuesday (stream will start at 10:05)](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5af98c4f-d3a6-4daf-a6cb-b48a013b80f8__;!!IBzWLUs!XtPpgVYM1yA_Lwhk2hjEIQcYw_XIGBUVabBEEI4eZ9BOXn9ceVP8FwiLbmrTQAIojJraXQSb0I54d54lOlDncGExcQ$)
+- [Wednesday (stream will start at 10:05)](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0cb0ba0c-7108-4946-ac26-b48a013bf9f5__;!!IBzWLUs!XtPpgVYM1yA_Lwhk2hjEIQcYw_XIGBUVabBEEI4eZ9BOXn9ceVP8FwiLbmrTQAIojJraXQSb0I54d54lOlC7kCnAyQ$)
 
 Speakers who would like their slides accessible on this website should email them to [awanders@sas.upenn.edu](mailto:awanders@sas.upenn.edu).
 
@@ -195,7 +197,8 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 
 ### Tuesday
 
-[Tuesday pdf schedule.](tuesday.pdf)
+- [Tuesday pdf schedule.](tuesday.pdf)
+- [Tuesday livestream will start at 10:05.](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5af98c4f-d3a6-4daf-a6cb-b48a013b80f8__;!!IBzWLUs!XtPpgVYM1yA_Lwhk2hjEIQcYw_XIGBUVabBEEI4eZ9BOXn9ceVP8FwiLbmrTQAIojJraXQSb0I54d54lOlDncGExcQ$)
 
 #### Special Sessions
 
@@ -231,7 +234,8 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 
 ### Wednesday
 
-[Wednesday pdf schedule.](wednesday.pdf)
+- [Wednesday pdf schedule.](wednesday.pdf)
+- [Wednesday livestream will start at 10:05.](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0cb0ba0c-7108-4946-ac26-b48a013bf9f5__;!!IBzWLUs!XtPpgVYM1yA_Lwhk2hjEIQcYw_XIGBUVabBEEI4eZ9BOXn9ceVP8FwiLbmrTQAIojJraXQSb0I54d54lOlC7kCnAyQ$)
 
 #### Contributed Talks
 
