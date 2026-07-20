@@ -20,6 +20,7 @@ We will also be livestreaming many of the talks.
 See here for the links. Note that while the Sunday link will be on Zoom, the weekday links will be on Panopto.
 - [Sunday](https://penncareylaw.zoom.us/j/92459021965?pwd=XMxs4effwChafYA2wqj676FojnYa9V.1)
 - [Monday](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea1dca24-76cd-4488-835c-b48a013af23d__;!!IBzWLUs!UVNXfDurur0gFBVwJMpk72WZUcG4dMmOe5P3PHzyhsPonIj0NiKeAVyZLXKuiohSETiUwOmv8rGZI51z0cBXjLkWbg$)
+- [Monday (Vincenzo De Risi)](https://penncareylaw.zoom.us/j/93894839024?pwd=ayhMDXMRnBq0zaIGhiuDmSbTHvh5lC.1)
 - [Tuesday (stream will start at 10:05)](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5af98c4f-d3a6-4daf-a6cb-b48a013b80f8__;!!IBzWLUs!XtPpgVYM1yA_Lwhk2hjEIQcYw_XIGBUVabBEEI4eZ9BOXn9ceVP8FwiLbmrTQAIojJraXQSb0I54d54lOlDncGExcQ$)
 - [Wednesday (stream will start at 10:05)](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0cb0ba0c-7108-4946-ac26-b48a013bf9f5__;!!IBzWLUs!XtPpgVYM1yA_Lwhk2hjEIQcYw_XIGBUVabBEEI4eZ9BOXn9ceVP8FwiLbmrTQAIojJraXQSb0I54d54lOlC7kCnAyQ$)
 
@@ -75,7 +76,7 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
         <tr>
 		    <td>11:30 - 12:20 <br> <a href="../localarea/carey/#golkin-downstairs">Fitts Auditorium</a> </td>
 			<td> Jack Lutz </td>
-			<td> Vincenzo De Risi </td>
+			<td> Vincenzo De Risi [online](https://penncareylaw.zoom.us/j/93894839024?pwd=ayhMDXMRnBq0zaIGhiuDmSbTHvh5lC.1) </td>
             <td> Will Brian </td>
             <td> Phokion Kolaitis </td>
 		</tr>
@@ -161,6 +162,7 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 
 - [Monday pdf schedule.](monday.pdf)
 - [Monday livestream link for select talks.](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea1dca24-76cd-4488-835c-b48a013af23d__;!!IBzWLUs!UVNXfDurur0gFBVwJMpk72WZUcG4dMmOe5P3PHzyhsPonIj0NiKeAVyZLXKuiohSETiUwOmv8rGZI51z0cBXjLkWbg$)
+- [Monday livestream link for online talk from Vincenzo De Risi](https://penncareylaw.zoom.us/j/93894839024?pwd=ayhMDXMRnBq0zaIGhiuDmSbTHvh5lC.1)
 
 #### Special Sessions
 
