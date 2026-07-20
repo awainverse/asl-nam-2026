@@ -77,7 +77,7 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
         <tr>
 		    <td>11:30 - 12:20 <br> <a href="../localarea/carey/#golkin-downstairs">Fitts Auditorium</a> </td>
 			<td> Jack Lutz </td>
-			<td> Vincenzo De Risi [online](https://penncareylaw.zoom.us/j/93894839024?pwd=ayhMDXMRnBq0zaIGhiuDmSbTHvh5lC.1) </td>
+			<td> Vincenzo De Risi <a href = "https://penncareylaw.zoom.us/j/93894839024?pwd=ayhMDXMRnBq0zaIGhiuDmSbTHvh5lC.1">online</a> </td>
             <td> Will Brian </td>
             <td> Phokion Kolaitis </td>
 		</tr>
