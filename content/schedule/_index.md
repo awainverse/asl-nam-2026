@@ -18,6 +18,7 @@ or download the day-by-day schedule summary pdfs here:
 
 We will also be livestreaming many of the talks.
 See here for the links. Note that while the Sunday link will be on Zoom, the weekday links will be on Panopto.
+Vincenzo De Risi will speak via Zoom - it may be necessary to switch to the provided Zoom link to hear the audio for that talk.
 - [Sunday](https://penncareylaw.zoom.us/j/92459021965?pwd=XMxs4effwChafYA2wqj676FojnYa9V.1)
 - [Monday](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea1dca24-76cd-4488-835c-b48a013af23d__;!!IBzWLUs!UVNXfDurur0gFBVwJMpk72WZUcG4dMmOe5P3PHzyhsPonIj0NiKeAVyZLXKuiohSETiUwOmv8rGZI51z0cBXjLkWbg$)
 - [Monday (Vincenzo De Risi)](https://penncareylaw.zoom.us/j/93894839024?pwd=ayhMDXMRnBq0zaIGhiuDmSbTHvh5lC.1)
@@ -162,7 +163,7 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 
 - [Monday pdf schedule.](monday.pdf)
 - [Monday livestream link for select talks.](https://urldefense.com/v3/__https://penncareylaw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea1dca24-76cd-4488-835c-b48a013af23d__;!!IBzWLUs!UVNXfDurur0gFBVwJMpk72WZUcG4dMmOe5P3PHzyhsPonIj0NiKeAVyZLXKuiohSETiUwOmv8rGZI51z0cBXjLkWbg$)
-- [Monday livestream link for online talk from Vincenzo De Risi](https://penncareylaw.zoom.us/j/93894839024?pwd=ayhMDXMRnBq0zaIGhiuDmSbTHvh5lC.1)
+- [Monday livestream link for online talk from Vincenzo De Risi](https://penncareylaw.zoom.us/j/93894839024?pwd=ayhMDXMRnBq0zaIGhiuDmSbTHvh5lC.1) (Vincenzo De Risi will speak via Zoom - it may be necessary to switch to the provided Zoom link to hear the audio for that talk.)
 
 #### Special Sessions
 
