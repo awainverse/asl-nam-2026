@@ -61,7 +61,7 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
 		</tr>
         <tr>
 		    <td>9:00 – 9:50 <br> <a href="../localarea/carey/#golkin-downstairs">Fitts Auditorium</a> </td>
-			<td colspan = 2> Matthew Harrison-Trainor <br> Tutorial 1, 2 </td>
+			<td colspan = 2> Matthew Harrison-Trainor <br> Tutorial <a href="harrisontrainor/asl_cst_part1.pdf">1</a>, <a href="harrisontrainor/asl_cst_part2.pdf">2</a> </td>
 			<td>Caroline Terry</td>
             <td>Juliette Kennedy</td>
 		</tr>
@@ -72,7 +72,7 @@ The special session rooms are on the second floor of [Silverman Hall](../localar
         <tr>
 		    <td>10:30 - 11:20 <br> <a href="../localarea/carey/#golkin-downstairs">Fitts Auditorium</a> </td>
 			<td colspan = 3> Nicholas Ramsey <br> <a href="https://nickramsey621.github.io/nsop1-tutorial.html">Tutorial 1, 2, 3</a> </td>
-			<td>Matthew Harrison-Trainor <br> Tutorial 3</td>
+			<td>Matthew Harrison-Trainor <br> <a href="harrisontrainor/asl_cst_part3.pdf">3</a></td>
 		</tr>
         <tr>
 		    <td>11:30 - 12:20 <br> <a href="../localarea/carey/#golkin-downstairs">Fitts Auditorium</a> </td>
